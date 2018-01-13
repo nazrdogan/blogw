@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Php | My Octopress Blog]]></title>
-  <link href="http://yoursite.com/blog/categories/php/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2018-01-14T02:28:24+03:00</updated>
-  <id>http://yoursite.com/</id>
+  <title><![CDATA[Category: Php | Nazir Doğan Code Blog]]></title>
+  <link href="http://nazrdogan.github.io/blog/categories/php/atom.xml" rel="self"/>
+  <link href="http://nazrdogan.github.io/"/>
+  <updated>2018-01-14T02:43:27+03:00</updated>
+  <id>http://nazrdogan.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Nazir Doğan]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Ubuntu üzerinde QT Ve MySql Baglantısı]]></title>
-    <link href="http://yoursite.com/blog/2013/12/03/ubuntu-uzerinde-qt-ve-mysql-baglantisi/"/>
+    <link href="http://nazrdogan.github.io/blog/2013/12/03/ubuntu-uzerinde-qt-ve-mysql-baglantisi/"/>
     <updated>2013-12-03T23:40:04+02:00</updated>
-    <id>http://yoursite.com/blog/2013/12/03/ubuntu-uzerinde-qt-ve-mysql-baglantisi</id>
+    <id>http://nazrdogan.github.io/blog/2013/12/03/ubuntu-uzerinde-qt-ve-mysql-baglantisi</id>
     <content type="html"><![CDATA[<p><img src="/assets/Qt_Software_logo.png" alt="" /><img src="/assets/MySQL.svg" alt="" /></p>
 
 <p>QT ve Mysql bağlantısı için gerekli olanlar</p>

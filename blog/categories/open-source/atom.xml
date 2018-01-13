@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Open Source | My Octopress Blog]]></title>
-  <link href="http://yoursite.com/blog/categories/open-source/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2018-01-14T02:28:24+03:00</updated>
-  <id>http://yoursite.com/</id>
+  <title><![CDATA[Category: Open Source | Nazir Doğan Code Blog]]></title>
+  <link href="http://nazrdogan.github.io/blog/categories/open-source/atom.xml" rel="self"/>
+  <link href="http://nazrdogan.github.io/"/>
+  <updated>2018-01-14T02:43:27+03:00</updated>
+  <id>http://nazrdogan.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Nazir Doğan]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Chrome Developer Tools -Console API Referans]]></title>
-    <link href="http://yoursite.com/blog/2015/06/18/chrome-developer-tools-console-api-referans/"/>
+    <link href="http://nazrdogan.github.io/blog/2015/06/18/chrome-developer-tools-console-api-referans/"/>
     <updated>2015-06-18T19:44:34+03:00</updated>
-    <id>http://yoursite.com/blog/2015/06/18/chrome-developer-tools-console-api-referans</id>
+    <id>http://nazrdogan.github.io/blog/2015/06/18/chrome-developer-tools-console-api-referans</id>
     <content type="html"><![CDATA[<p>Chrome Developer Tools birçok web geliştiricinin vazgeçilmez bir araçtır. Console API ise uygulamamızda hata ayıklama, ekrana bilgi yazdırma ve Javascript  analizi yapmamıza imkan sağlamaktadır.</p>
 
 
@@ -184,9 +184,9 @@ console.assert(list.childNodes.length &lt; 10, "List item count is &gt;= 10");
   
   <entry>
     <title type="html"><![CDATA[Cocos2d-JS Intellij IDEA Kurulumu]]></title>
-    <link href="http://yoursite.com/blog/2015/05/09/cocos2d-js-intellij-idea-kurulumu/"/>
+    <link href="http://nazrdogan.github.io/blog/2015/05/09/cocos2d-js-intellij-idea-kurulumu/"/>
     <updated>2015-05-09T14:14:30+03:00</updated>
-    <id>http://yoursite.com/blog/2015/05/09/cocos2d-js-intellij-idea-kurulumu</id>
+    <id>http://nazrdogan.github.io/blog/2015/05/09/cocos2d-js-intellij-idea-kurulumu</id>
     <content type="html"><![CDATA[<p>Bu yazımda Cocos2D-JS platformunu  Intellij IDEAüzerinde nasıl kullanacağız  onu göstereceğim. Öncelikle başlık  sizi yanıltmasın  Bu plugini Webstorm veya diğer Intellij tabanlı IDE'lerede kurabilirsiniz.</p>
 
 
@@ -299,9 +299,9 @@ console.assert(list.childNodes.length &lt; 10, "List item count is &gt;= 10");
   
   <entry>
     <title type="html"><![CDATA[Electron Ile Web Teknolojilerini Kullanarak Masaüstü Uygulama Geliştirme]]></title>
-    <link href="http://yoursite.com/blog/2015/05/02/electron-ile-web-teknolojilerini-kullanarak-masaustu-uygulama-gelistirme/"/>
+    <link href="http://nazrdogan.github.io/blog/2015/05/02/electron-ile-web-teknolojilerini-kullanarak-masaustu-uygulama-gelistirme/"/>
     <updated>2015-05-02T10:49:29+03:00</updated>
-    <id>http://yoursite.com/blog/2015/05/02/electron-ile-web-teknolojilerini-kullanarak-masaustu-uygulama-gelistirme</id>
+    <id>http://nazrdogan.github.io/blog/2015/05/02/electron-ile-web-teknolojilerini-kullanarak-masaustu-uygulama-gelistirme</id>
     <content type="html"><![CDATA[<p>Electron , Javascript ile masaüstü uygulaması geliştirmenize  olanak  sağlayan bir runtime'dir.Electron  açık kaynak ve çapraz platfromdur .HTML ,CSS ve io.js'ten gücünü almaktadır.Electron GUI olarak web sayfasını kullanır.yani göreceginiz aslında minimal bir Chromuium tarayıcıdı.r İlk olarak Github'un Atom Editörü için geliştirilmiştir. Electron'u kullanan firmalar arasında  Microsoft ,Facebook ,Slack  ve Docker vardır. Hatta yeni çıkan Microsoft Visual Studio Code Electron tabanlıdır.</p>
 
 
@@ -442,9 +442,9 @@ app.on('ready', function() {
   
   <entry>
     <title type="html"><![CDATA[Javascript Ile Arduino]]></title>
-    <link href="http://yoursite.com/blog/2015/02/28/javascript-ile-arduino/"/>
+    <link href="http://nazrdogan.github.io/blog/2015/02/28/javascript-ile-arduino/"/>
     <updated>2015-02-28T12:41:23+02:00</updated>
-    <id>http://yoursite.com/blog/2015/02/28/javascript-ile-arduino</id>
+    <id>http://nazrdogan.github.io/blog/2015/02/28/javascript-ile-arduino</id>
     <content type="html"><![CDATA[<p>Bu yazımda Javascript ile Arduino kontrolünden bahsedeceğim.Node.js'ı muhtemelen duymuşsunuzdur. Ama eğer duymadıysanız  kısaca server tarafında Javascript çalıştırabileceğiniz bir platform olarak tanımlayabiliriz.</p>
 
 
@@ -529,9 +529,9 @@ v0.10.36
   
   <entry>
     <title type="html"><![CDATA[PhoneGap/Cordova Uygulamalarında Network Bağlantı Bilgisini Alma]]></title>
-    <link href="http://yoursite.com/blog/2015/02/16/phonegapcordova-network-baglanti-bilgisini-alma/"/>
+    <link href="http://nazrdogan.github.io/blog/2015/02/16/phonegapcordova-network-baglanti-bilgisini-alma/"/>
     <updated>2015-02-16T19:49:53+02:00</updated>
-    <id>http://yoursite.com/blog/2015/02/16/phonegapcordova-network-baglanti-bilgisini-alma</id>
+    <id>http://nazrdogan.github.io/blog/2015/02/16/phonegapcordova-network-baglanti-bilgisini-alma</id>
     <content type="html"><![CDATA[<p>Bu yazımda Phonegap/Cordova uygulamalarında  Network yani ağ bağlantı bilgisinin nasıl öğreniliceğinden bahsedeceğim.</p>
 
 
