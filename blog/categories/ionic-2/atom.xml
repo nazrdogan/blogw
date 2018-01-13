@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Ionic 2 | Nazir Doğan Code Blog]]></title>
-  <link href="http://nazrdogan.github.io/blog/categories/ionic-2/atom.xml" rel="self"/>
-  <link href="http://nazrdogan.github.io/"/>
-  <updated>2018-01-14T02:43:27+03:00</updated>
-  <id>http://nazrdogan.github.io/</id>
+  <title><![CDATA[Category: Ionic 2 | My Octopress Blog]]></title>
+  <link href="http://yoursite.com/blog/categories/ionic-2/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2018-01-14T02:43:28+03:00</updated>
+  <id>http://yoursite.com/</id>
   <author>
-    <name><![CDATA[Nazir Doğan]]></name>
+    <name><![CDATA[Your Name]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Ionic 2 - Google Maps]]></title>
-    <link href="http://nazrdogan.github.io/blog/2016/07/31/ionic2-googlemaps/"/>
+    <link href="http://yoursite.com/blog/2016/07/31/ionic2-googlemaps/"/>
     <updated>2016-07-31T00:00:00+03:00</updated>
-    <id>http://nazrdogan.github.io/blog/2016/07/31/ionic2-googlemaps</id>
+    <id>http://yoursite.com/blog/2016/07/31/ionic2-googlemaps</id>
     <content type="html"><![CDATA[<p>Bu yazımda Ionic 2 uygulamalarında <strong>Google Maps</strong>&lsquo;ı nasıl ekleyeceğimiz ve <strong>ionic-native</strong> kullanarak konum bilgisini almayı öğreneceğiz.</p>
 
 <p>Şimdi yeni bir ionic projesi oluşturarak başlayalım.</p>
@@ -150,9 +150,9 @@ ngOnInit() {
   
   <entry>
     <title type="html"><![CDATA[Ionic 2 - Sunucudan Veri Alma]]></title>
-    <link href="http://nazrdogan.github.io/blog/2016/07/23/ionic2-uzaktan-veri-alma/"/>
+    <link href="http://yoursite.com/blog/2016/07/23/ionic2-uzaktan-veri-alma/"/>
     <updated>2016-07-23T00:00:00+03:00</updated>
-    <id>http://nazrdogan.github.io/blog/2016/07/23/ionic2-uzaktan-veri-alma</id>
+    <id>http://yoursite.com/blog/2016/07/23/ionic2-uzaktan-veri-alma</id>
     <content type="html"><![CDATA[<p><img src="/assets/ionic-weather-app.png" alt="project structure" /></p>
 
 <p>Mobil uygulamaların birçoğu servis olmadan çokta birşey ifade etmezler. ve birçok uygulama REST ve benzeri servisleri kullanmaktadır. Şimdi bizde yapacağımız uygulama ile basit bir servis çagırısı yapıp veriyi ekrana basacağız.</p>
@@ -231,9 +231,9 @@ export class MyData {
   
   <entry>
     <title type="html"><![CDATA[Ionic 2 - Proje Yapısı]]></title>
-    <link href="http://nazrdogan.github.io/blog/2016/07/23/ionic2-proje-yapisi/"/>
+    <link href="http://yoursite.com/blog/2016/07/23/ionic2-proje-yapisi/"/>
     <updated>2016-07-23T00:00:00+03:00</updated>
-    <id>http://nazrdogan.github.io/blog/2016/07/23/ionic2-proje-yapisi</id>
+    <id>http://yoursite.com/blog/2016/07/23/ionic2-proje-yapisi</id>
     <content type="html"><![CDATA[<p>Bir <a href="http://nazrdogan.github.io/javascript/ionic%202/2016/07/22/ionic2-kurulum.html">önceki yazımda</a> Ionic 2' nin nasıl kurulacağından bahsettim.</p>
 
 <p>Bu yazımda ise proje yapısınıdan bahsetmek ve önemli birkaç dosyayı göstermek istiyorum.</p>
@@ -296,9 +296,9 @@ ionicBootstrap(MyApp);
   
   <entry>
     <title type="html"><![CDATA[Ionic 2 Kurulumu]]></title>
-    <link href="http://nazrdogan.github.io/blog/2016/07/22/ionic2-kurulum/"/>
+    <link href="http://yoursite.com/blog/2016/07/22/ionic2-kurulum/"/>
     <updated>2016-07-22T00:00:00+03:00</updated>
-    <id>http://nazrdogan.github.io/blog/2016/07/22/ionic2-kurulum</id>
+    <id>http://yoursite.com/blog/2016/07/22/ionic2-kurulum</id>
     <content type="html"><![CDATA[<p><img src="http://ionicframework.com/img/blog/ionic-angular-v2.jpg" alt="ionic-angular-v2" /></p>
 
 <hr />

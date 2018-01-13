@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Meego | Nazir Doğan Code Blog]]></title>
-  <link href="http://nazrdogan.github.io/blog/categories/meego/atom.xml" rel="self"/>
-  <link href="http://nazrdogan.github.io/"/>
-  <updated>2018-01-14T02:43:27+03:00</updated>
-  <id>http://nazrdogan.github.io/</id>
+  <title><![CDATA[Category: Meego | My Octopress Blog]]></title>
+  <link href="http://yoursite.com/blog/categories/meego/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2018-01-14T02:43:28+03:00</updated>
+  <id>http://yoursite.com/</id>
   <author>
-    <name><![CDATA[Nazir Doğan]]></name>
+    <name><![CDATA[Your Name]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[2015 Tizen'nin Yılı Olacak Mı ?]]></title>
-    <link href="http://nazrdogan.github.io/blog/2015/01/17/2015-tizennin-olacak-mi/"/>
+    <link href="http://yoursite.com/blog/2015/01/17/2015-tizennin-olacak-mi/"/>
     <updated>2015-01-17T23:16:30+02:00</updated>
-    <id>http://nazrdogan.github.io/blog/2015/01/17/2015-tizennin-olacak-mi</id>
+    <id>http://yoursite.com/blog/2015/01/17/2015-tizennin-olacak-mi</id>
     <content type="html"><![CDATA[<p>Geçtiğimiz günlerde Samsung ,Tizen işletim sistemine sahip TV'leri duyurdu. Daha öncedende kameralarında ve akıll saatlerinde yer vermişti. Tizen projesini takip eden birçok beklediği akıllı telefonları ise TV'leri duyurmasına müteakip piyasaya sürdü.</p>
 
 
@@ -49,18 +49,18 @@
   
   <entry>
     <title type="html"><![CDATA[Tizen İnceleme Videosu]]></title>
-    <link href="http://nazrdogan.github.io/blog/2013/09/23/tizen-inceleme-videosu/"/>
+    <link href="http://yoursite.com/blog/2013/09/23/tizen-inceleme-videosu/"/>
     <updated>2013-09-23T06:48:45+03:00</updated>
-    <id>http://nazrdogan.github.io/blog/2013/09/23/tizen-inceleme-videosu</id>
+    <id>http://yoursite.com/blog/2013/09/23/tizen-inceleme-videosu</id>
     <content type="html"><![CDATA[<p><a href="https://vimeo.com/75167028">https://vimeo.com/75167028</a></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Tizen Web Uygulama Geliştirme-Form Uygulaması]]></title>
-    <link href="http://nazrdogan.github.io/blog/2013/09/15/tizen-web-uygulama-gelistirme-form-uygulamasi/"/>
+    <link href="http://yoursite.com/blog/2013/09/15/tizen-web-uygulama-gelistirme-form-uygulamasi/"/>
     <updated>2013-09-15T19:19:23+03:00</updated>
-    <id>http://nazrdogan.github.io/blog/2013/09/15/tizen-web-uygulama-gelistirme-form-uygulamasi</id>
+    <id>http://yoursite.com/blog/2013/09/15/tizen-web-uygulama-gelistirme-form-uygulamasi</id>
     <content type="html"><![CDATA[<p>Daha önceleri Tizen ile ilğili giriş yapmıştık ,Uygulama geliştirme methodlarından bahsetmiştik.Şimdi ise Tizen+Jquery Mobile ile uygulama geliştirmeye başlamış bulunmaktayız.</p>
 
 
@@ -89,9 +89,9 @@
   
   <entry>
     <title type="html"><![CDATA[Tizen Uygulama Geliştirme (Adım 0)]]></title>
-    <link href="http://nazrdogan.github.io/blog/2013/09/03/tizen-uygulama-gelistirme-adim-0/"/>
+    <link href="http://yoursite.com/blog/2013/09/03/tizen-uygulama-gelistirme-adim-0/"/>
     <updated>2013-09-03T21:27:15+03:00</updated>
-    <id>http://nazrdogan.github.io/blog/2013/09/03/tizen-uygulama-gelistirme-adim-0</id>
+    <id>http://yoursite.com/blog/2013/09/03/tizen-uygulama-gelistirme-adim-0</id>
     <content type="html"><![CDATA[<p>Her platformda oldugu gibi Tizen'de de uygulama geliştirmek için bir SDK(Software Development Kit) 'e sahip.</p>
 
 
@@ -129,9 +129,9 @@ Tizen IDE   Web Uygulama geliştirme aracı ve Native Uygulama geliştirme ara�
   
   <entry>
     <title type="html"><![CDATA[Tizen Geliştirici Telefonu]]></title>
-    <link href="http://nazrdogan.github.io/blog/2013/09/03/tizen-gelistirici-telefonu/"/>
+    <link href="http://yoursite.com/blog/2013/09/03/tizen-gelistirici-telefonu/"/>
     <updated>2013-09-03T19:19:18+03:00</updated>
-    <id>http://nazrdogan.github.io/blog/2013/09/03/tizen-gelistirici-telefonu</id>
+    <id>http://yoursite.com/blog/2013/09/03/tizen-gelistirici-telefonu</id>
     <content type="html"><![CDATA[<p>Tizen projesini ilk duyurulduğu günden beri takip eden biri olarak  ilk telefonların ne zaman çıkacağını hep merak ettim.Daha sonrasında ise bazı yabancı sitelerde ilk  geliştirici cihazlarının dağıtıldığını gördüm.Keşke benimde elime bir tane geçsede kurcalasam diye düşündüm.Aradan belki bir sene belki daha az zaman geçtikten sonra  yeni Tizen cihazın geliştiricelere dağıtıldığını gördüm.Daha sonra ise Tizen Türkiye sayfasında geliştirici cihazlarının   belirli bir süre için geliştiricilere verildigini gördüm. Bazı prosedürlerden  sonra  cihaz geçen cuma günü elime ulaştı.Özellikle Tizen Türkiye'den Oytun EREN Bey'e özellikle teşekkür etmek istiyorum.Değerli vaktini ve emegini ayırdığı için.</p>
 
 

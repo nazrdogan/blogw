@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: C++ | Nazir Doğan Code Blog]]></title>
-  <link href="http://nazrdogan.github.io/blog/categories/c-plus-plus/atom.xml" rel="self"/>
-  <link href="http://nazrdogan.github.io/"/>
-  <updated>2018-01-14T02:43:27+03:00</updated>
-  <id>http://nazrdogan.github.io/</id>
+  <title><![CDATA[Category: C++ | My Octopress Blog]]></title>
+  <link href="http://yoursite.com/blog/categories/c-plus-plus/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2018-01-14T02:43:28+03:00</updated>
+  <id>http://yoursite.com/</id>
   <author>
-    <name><![CDATA[Nazir Doğan]]></name>
+    <name><![CDATA[Your Name]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Sailfish Merhaba Dünya Uygulaması]]></title>
-    <link href="http://nazrdogan.github.io/blog/2013/12/16/sailfish-merhaba-dunya-uygulamasi/"/>
+    <link href="http://yoursite.com/blog/2013/12/16/sailfish-merhaba-dunya-uygulamasi/"/>
     <updated>2013-12-16T10:58:29+02:00</updated>
-    <id>http://nazrdogan.github.io/blog/2013/12/16/sailfish-merhaba-dunya-uygulamasi</id>
+    <id>http://yoursite.com/blog/2013/12/16/sailfish-merhaba-dunya-uygulamasi</id>
     <content type="html"><![CDATA[<p>Nokia'dan ayrılan bir grup geliştiricinin MeeGo projesinin devamı olarak piyasaya sundukları Sailfish OS ve ilk Jolla cihazlarını kısıtlı sayıda olsada çıkarmış bulunuyorlar.</p>
 
 
@@ -75,9 +75,9 @@ $ ./Downloads/&lt;installer_name&gt;</pre>
   
   <entry>
     <title type="html"><![CDATA[Ubuntu üzerinde QT Ve MySql Baglantısı]]></title>
-    <link href="http://nazrdogan.github.io/blog/2013/12/03/ubuntu-uzerinde-qt-ve-mysql-baglantisi/"/>
+    <link href="http://yoursite.com/blog/2013/12/03/ubuntu-uzerinde-qt-ve-mysql-baglantisi/"/>
     <updated>2013-12-03T23:40:04+02:00</updated>
-    <id>http://nazrdogan.github.io/blog/2013/12/03/ubuntu-uzerinde-qt-ve-mysql-baglantisi</id>
+    <id>http://yoursite.com/blog/2013/12/03/ubuntu-uzerinde-qt-ve-mysql-baglantisi</id>
     <content type="html"><![CDATA[<p><img src="/assets/Qt_Software_logo.png" alt="" /><img src="/assets/MySQL.svg" alt="" /></p>
 
 <p>QT ve Mysql bağlantısı için gerekli olanlar</p>
@@ -109,18 +109,18 @@ $ ./Downloads/&lt;installer_name&gt;</pre>
   
   <entry>
     <title type="html"><![CDATA[Tizen İnceleme Videosu]]></title>
-    <link href="http://nazrdogan.github.io/blog/2013/09/23/tizen-inceleme-videosu/"/>
+    <link href="http://yoursite.com/blog/2013/09/23/tizen-inceleme-videosu/"/>
     <updated>2013-09-23T06:48:45+03:00</updated>
-    <id>http://nazrdogan.github.io/blog/2013/09/23/tizen-inceleme-videosu</id>
+    <id>http://yoursite.com/blog/2013/09/23/tizen-inceleme-videosu</id>
     <content type="html"><![CDATA[<p><a href="https://vimeo.com/75167028">https://vimeo.com/75167028</a></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Tizen Uygulama Geliştirme - Merhaba Dünya Native Uygulama]]></title>
-    <link href="http://nazrdogan.github.io/blog/2013/09/21/tizen-uygulama-gelistirme-merhaba-dunya-native-uygulama/"/>
+    <link href="http://yoursite.com/blog/2013/09/21/tizen-uygulama-gelistirme-merhaba-dunya-native-uygulama/"/>
     <updated>2013-09-21T07:48:04+03:00</updated>
-    <id>http://nazrdogan.github.io/blog/2013/09/21/tizen-uygulama-gelistirme-merhaba-dunya-native-uygulama</id>
+    <id>http://yoursite.com/blog/2013/09/21/tizen-uygulama-gelistirme-merhaba-dunya-native-uygulama</id>
     <content type="html"><![CDATA[<p>Tizen uygulama geliştirmenin iki tane yolu olduğundan daha öncede bahsetmiştik.Bu yazımda ise Native bir Hello World uygulaması nasıl yapılır.Arayüz nasıl tasarlanır onun üzerinde duracağım.</p>
 
 <p>ilk adım olarak</p>
@@ -165,9 +165,9 @@ $ ./Downloads/&lt;installer_name&gt;</pre>
   
   <entry>
     <title type="html"><![CDATA[Tizen Uygulama Geliştirme-Uygulama Paket Yöneticisi]]></title>
-    <link href="http://nazrdogan.github.io/blog/2013/09/13/tizen-uygulama-gelistirme-uygulama-paket-yoneticisi/"/>
+    <link href="http://yoursite.com/blog/2013/09/13/tizen-uygulama-gelistirme-uygulama-paket-yoneticisi/"/>
     <updated>2013-09-13T19:59:57+03:00</updated>
-    <id>http://nazrdogan.github.io/blog/2013/09/13/tizen-uygulama-gelistirme-uygulama-paket-yoneticisi</id>
+    <id>http://yoursite.com/blog/2013/09/13/tizen-uygulama-gelistirme-uygulama-paket-yoneticisi</id>
     <content type="html"><![CDATA[<p>Uygulama paket yöneticisi Tizen  Framework'un çekirdek modüllerinden  biridir .Uygulama  yükleme kaldırma ve güncelleme paketleri ve onların bilgilerini  depolamaktan sorumludur.Paket yöneticisi kullanarak, aynı zamanda cihazda yüklü olan paketler ile ilgili bilgi alabilirsiniz.</p>
 
 
