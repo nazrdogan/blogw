@@ -23,7 +23,6 @@ Yukardaki gif  Javascript geliştiricileri için oldukça büyük anlam ifade et
 
 Sonuç olarak  birçoğumuz  "callback hell" ile karşı karşıya gelmek zorunda kaldık. 
 
-
 Neyse ki daha sonra ise Promise geldi. Bize callback fonksiyonlarından daha organize bir yapı sundu. ve halen birçok geliştirici tarafından sıklıkla kullanılmakta.
 
  Son olarak ise Async/Await'in eklenmesiyle daha okunabilir ve bakımı kolay bir hale geldi.
