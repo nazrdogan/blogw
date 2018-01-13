@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Jquery | My Octopress Blog]]></title>
-  <link href="http://yoursite.com/blog/categories/jquery/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2018-01-14T02:24:00+03:00</updated>
-  <id>http://yoursite.com/</id>
+  <title><![CDATA[Category: Jquery | Nazir Doğan Code Blog]]></title>
+  <link href="http://nazrdogan.github.io/blog/categories/jquery/atom.xml" rel="self"/>
+  <link href="http://nazrdogan.github.io/"/>
+  <updated>2018-01-14T02:28:23+03:00</updated>
+  <id>http://nazrdogan.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Nazir Doğan]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[PhoneGap/Cordova Uygulamalarında ActionSheet Kullanımı]]></title>
-    <link href="http://yoursite.com/blog/2015/03/05/phonegapcordova-uygulamalarinda-actionsheet-kullanimi/"/>
+    <link href="http://nazrdogan.github.io/blog/2015/03/05/phonegapcordova-uygulamalarinda-actionsheet-kullanimi/"/>
     <updated>2015-03-05T21:22:40+02:00</updated>
-    <id>http://yoursite.com/blog/2015/03/05/phonegapcordova-uygulamalarinda-actionsheet-kullanimi</id>
+    <id>http://nazrdogan.github.io/blog/2015/03/05/phonegapcordova-uygulamalarinda-actionsheet-kullanimi</id>
     <content type="html"><![CDATA[<p>Action Sheet  native olarak kullanıcıya seçenek listesinden birşey seçtirmek için kullanabileceginiz bir plugindir.  Birçok uygulamada görebilirsiniz. ( Yazının sonundaki görsele bakarsanız daha anlaşılır olabilir.) Plugin iOS, Android ve Windows Phone platformlarını desteklemektedir.</p>
 
 
@@ -120,16 +120,16 @@ cordova platform add android
 <p><a href="https://github.com/EddyVerbruggen/cordova-plugin-actionsheet">ActionSheet Github sayfasını ziyaret edip daha fazla bilgi alabilirsiniz.</a></p>
 
 
-<p><a href="http://www.nazirdogan.com/wp-content/uploads/2015/03/snapshot41.png"><img class="alignnone size-full wp-image-760" src="{{ site.baseurl }}/assets/snapshot41.png" alt="snapshot41" width="532" height="819" /></a></p>
+<p><a href="http://www.nazirdogan.com/wp-content/uploads/2015/03/snapshot41.png"><img class="alignnone size-full wp-image-760" src="/assets/snapshot41.png" alt="snapshot41" width="532" height="819" /></a></p>
 
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[PhoneGap/Cordova - AdMob İle Uygulamaya Reklam Eklenmesi]]></title>
-    <link href="http://yoursite.com/blog/2015/02/28/phonegapcordova-admob-ile-uygulamaya-reklam-eklenmesi/"/>
+    <link href="http://nazrdogan.github.io/blog/2015/02/28/phonegapcordova-admob-ile-uygulamaya-reklam-eklenmesi/"/>
     <updated>2015-02-28T18:48:53+02:00</updated>
-    <id>http://yoursite.com/blog/2015/02/28/phonegapcordova-admob-ile-uygulamaya-reklam-eklenmesi</id>
+    <id>http://nazrdogan.github.io/blog/2015/02/28/phonegapcordova-admob-ile-uygulamaya-reklam-eklenmesi</id>
     <content type="html"><![CDATA[<p>Appstore'da ve Google Play'deki uygulamaların birçoğu  ücretsiz olup gelir modeli olarak  ise  reklam alma olarak belirlenmiştir. Bunun için birçok reklam servisi vardır. Bunlardan en ünlüsü ve en tercih edileni ise Google'un sahibi olduğu  AdMob'tur.</p>
 
 
@@ -145,7 +145,7 @@ cordova platform add android
 <p>Giriş yaptıktan sonra bu ekranı göreceksiniz.</p>
 
 
-<p><a href="http://www.nazirdogan.com/wp-content/uploads/2015/02/snapshot38.png"><img class="alignnone size-large wp-image-734" src="{{ site.baseurl }}/assets/snapshot38-1024x492.png" alt="snapshot38" width="770" height="370" /></a></p>
+<p><a href="http://www.nazirdogan.com/wp-content/uploads/2015/02/snapshot38.png"><img class="alignnone size-large wp-image-734" src="/assets/snapshot38-1024x492.png" alt="snapshot38" width="770" height="370" /></a></p>
 
 
 <p>"Monetize New App"  diyerek uygulamamızı ekliyoruz. Burda uzun uzadıya bahsetmeme gerek yok sanırım.</p>
@@ -169,7 +169,7 @@ cordova platform add android
 <p>Ekran görüntüsü:</p>
 
 
-<p><a href="http://www.nazirdogan.com/wp-content/uploads/2015/02/Screenshot_2015-02-28-20-04-12.jpg"><img class="alignnone size-large wp-image-738" src="{{ site.baseurl }}/assets/Screenshot_2015-02-28-20-04-12-640x1024.jpg" alt="Screenshot_2015-02-28-20-04-12" width="640" height="1024" /></a></p>
+<p><a href="http://www.nazirdogan.com/wp-content/uploads/2015/02/Screenshot_2015-02-28-20-04-12.jpg"><img class="alignnone size-large wp-image-738" src="/assets/Screenshot_2015-02-28-20-04-12-640x1024.jpg" alt="Screenshot_2015-02-28-20-04-12" width="640" height="1024" /></a></p>
 
 
 <p>&nbsp;</p>
@@ -185,9 +185,9 @@ cordova platform add android
   
   <entry>
     <title type="html"><![CDATA[Firefox OS Uygulama geliştirme-Merhaba Dünya]]></title>
-    <link href="http://yoursite.com/blog/2013/11/22/firefox-os-uygulama-gelistirme-merhaba-dunya/"/>
+    <link href="http://nazrdogan.github.io/blog/2013/11/22/firefox-os-uygulama-gelistirme-merhaba-dunya/"/>
     <updated>2013-11-22T20:06:58+02:00</updated>
-    <id>http://yoursite.com/blog/2013/11/22/firefox-os-uygulama-gelistirme-merhaba-dunya</id>
+    <id>http://nazrdogan.github.io/blog/2013/11/22/firefox-os-uygulama-gelistirme-merhaba-dunya</id>
     <content type="html"><![CDATA[<h2><span style="color: #ff6600;">Firefox OS nedir?</span></h2>
 
 
@@ -203,7 +203,7 @@ cordova platform add android
 <p><a href="https://addons.mozilla.org/en-us/firefox/addon/firefox-os-simulator/">Firefox OS simulator</a></p>
 
 
-<p><a href="http://nazirdogan.files.wordpress.com/2013/11/simulator.png"><img class="alignnone size-large wp-image-251" src="{{ site.baseurl }}/assets/simulator.png?w=1024" alt="simulator" width="1024" height="575" /></a></p>
+<p><a href="http://nazirdogan.files.wordpress.com/2013/11/simulator.png"><img class="alignnone size-large wp-image-251" src="/assets/simulator.png?w=1024" alt="simulator" width="1024" height="575" /></a></p>
 
 
 <h2><span style="color: #ff6600;">Merhaba Dünya</span></h2>
@@ -221,10 +221,10 @@ cordova platform add android
 <p>Eğer bu ekranı görüyorsanız Add Directory kısmından  manifest.webapp dosyasını eklemeniz lazım.Ekledikten sonra simulator üzerinde görebilirsiniz.</p>
 
 
-<p><a href="http://nazirdogan.files.wordpress.com/2013/11/screenshot-from-2013-11-22-215602.png"><img class="alignnone size-large wp-image-255" src="{{ site.baseurl }}/assets/screenshot-from-2013-11-22-215602.png?w=1024" alt="Screenshot from 2013-11-22 21:56:02" width="1024" height="575" /></a></p>
+<p><a href="http://nazirdogan.files.wordpress.com/2013/11/screenshot-from-2013-11-22-215602.png"><img class="alignnone size-large wp-image-255" src="/assets/screenshot-from-2013-11-22-215602.png?w=1024" alt="Screenshot from 2013-11-22 21:56:02" width="1024" height="575" /></a></p>
 
 
-<p><a href="http://nazirdogan.files.wordpress.com/2013/11/simulator1.png"><img class="alignnone size-large wp-image-254" src="{{ site.baseurl }}/assets/simulator1.png?w=1024" alt="simulator1" width="1024" height="575" /></a><br />
+<p><a href="http://nazirdogan.files.wordpress.com/2013/11/simulator1.png"><img class="alignnone size-large wp-image-254" src="/assets/simulator1.png?w=1024" alt="simulator1" width="1024" height="575" /></a><br />
 https://gist.github.com/nazrdogan/7605761</p>
 
 ]]></content>
@@ -232,9 +232,9 @@ https://gist.github.com/nazrdogan/7605761</p>
   
   <entry>
     <title type="html"><![CDATA[Tizen üzerinde Processing.js]]></title>
-    <link href="http://yoursite.com/blog/2013/10/01/tizen-uzerinde-processing-js/"/>
+    <link href="http://nazrdogan.github.io/blog/2013/10/01/tizen-uzerinde-processing-js/"/>
     <updated>2013-10-01T12:36:28+03:00</updated>
-    <id>http://yoursite.com/blog/2013/10/01/tizen-uzerinde-processing-js</id>
+    <id>http://nazrdogan.github.io/blog/2013/10/01/tizen-uzerinde-processing-js</id>
     <content type="html"><![CDATA[<ul id="content">
 <li id="work">
 <h2>Processing nedir?</h2>
@@ -253,7 +253,7 @@ https://gist.github.com/nazrdogan/6776991</p>
 <p>Simulator üzerinde  processing.js</p>
 
 
-<p><a href="http://nazirdogan.files.wordpress.com/2013/10/pendulumprocessing.png"><img class="alignnone size-full wp-image-215" alt="pendulumprocessing" src="{{ site.baseurl }}/assets/pendulumprocessing.png" width="438" height="458" /></a></p>
+<p><a href="http://nazirdogan.files.wordpress.com/2013/10/pendulumprocessing.png"><img class="alignnone size-full wp-image-215" alt="pendulumprocessing" src="/assets/pendulumprocessing.png" width="438" height="458" /></a></p>
 
 
 <p>https://gist.github.com/nazrdogan/6777186</p>
@@ -274,16 +274,16 @@ https://vimeo.com/75860986<br />
   
   <entry>
     <title type="html"><![CDATA[Tizen Uygulama Geliştirme-Bluetooth Donanımı]]></title>
-    <link href="http://yoursite.com/blog/2013/09/27/tizen-uygulama-gelistirme-bluetooth-donanimi/"/>
+    <link href="http://nazrdogan.github.io/blog/2013/09/27/tizen-uygulama-gelistirme-bluetooth-donanimi/"/>
     <updated>2013-09-27T21:01:23+03:00</updated>
-    <id>http://yoursite.com/blog/2013/09/27/tizen-uygulama-gelistirme-bluetooth-donanimi</id>
+    <id>http://nazrdogan.github.io/blog/2013/09/27/tizen-uygulama-gelistirme-bluetooth-donanimi</id>
     <content type="html"><![CDATA[<p>Tizen'in HTML5 olmasının getirdiği özelliklerinden biride Web API'leri ile  Cihazın donanımına ulaşmak.Bu donanımlardan bir tanesi de Bluetooth. Bu yazımda<a href="http://tr.wikipedia.org/wiki/Bluetooth"> Bluetooth  </a>API'lerinden bahsedecegim.</p>
 
 
 <p style="text-align:justify;">İlk önce tizen web projesi açtıktan sonra  <span style="color:#ff6600;"> config.xml  <span style="color:#000000;">sayfasında ki<a href="https://developer.tizen.org/help/index.jsp?topic=%2Forg.tizen.web.appprogramming%2Fhtml%2Fapp_dev_process%2Fspecify_api_access.htm"> Privileges</a>(izinler) tabından aşagıdaki resimdeki gibi izinleri eklememiz gerekmektedir.Çünkü Bluetooth cihazına ulaşmak için bu izinlere ihtiyacı var uygulamanın.</span></span></p>
 
 
-<p style="text-align:justify;"><a href="http://nazirdogan.files.wordpress.com/2013/09/bluetoothpriviliges.png"><img class="alignnone size-large wp-image-189" alt="bluetoothpriviliges" src="{{ site.baseurl }}/assets/bluetoothpriviliges.png?w=1024" width="1024" height="617" /></a></p>
+<p style="text-align:justify;"><a href="http://nazirdogan.files.wordpress.com/2013/09/bluetoothpriviliges.png"><img class="alignnone size-large wp-image-189" alt="bluetoothpriviliges" src="/assets/bluetoothpriviliges.png?w=1024" width="1024" height="617" /></a></p>
 
 
 <p style="text-align:justify;">Resimdeki gibi ekledikten sonra aşagıdaki kodu<span style="color:#ff6600;"> index.html <span style="color:#000000;"> sayfasına ekledikten sonra Bluetooth Aç-Kapa fonksiyonu çalışır hale gelecek.</span></span></p>
@@ -295,13 +295,13 @@ https://vimeo.com/75860986<br />
 <p>Eğer bütün   adımları dogru yaptıysanız uygulamanızın ekranında aşagıdaki gibi görebilirsiniz.</p>
 
 
-<p><a href="http://nazirdogan.files.wordpress.com/2013/09/bluetooth-ac3a7kapa.png"><img class="alignnone size-full wp-image-197" alt="bluetooth açkapa" src="{{ site.baseurl }}/assets/bluetooth-ac3a7kapa.png" width="387" height="681" /></a></p>
+<p><a href="http://nazirdogan.files.wordpress.com/2013/09/bluetooth-ac3a7kapa.png"><img class="alignnone size-full wp-image-197" alt="bluetooth açkapa" src="/assets/bluetooth-ac3a7kapa.png" width="387" height="681" /></a></p>
 
 
 <p>Eğer  HTML kodu  içerisindeki Javascript kısmındakı yorumları takip edip kodu incelerseniz.Bütün fonksiyonları görebilirsiniz.(Yazı Resimlerle güncellenecektir.)</p>
 
 
-<p><a href="http://nazirdogan.files.wordpress.com/2013/09/bluetooth.png"><img class="alignnone size-full wp-image-204" alt="bluetooth" src="{{ site.baseurl }}/assets/bluetooth.png" width="499" height="889" /></a></p>
+<p><a href="http://nazirdogan.files.wordpress.com/2013/09/bluetooth.png"><img class="alignnone size-full wp-image-204" alt="bluetooth" src="/assets/bluetooth.png" width="499" height="889" /></a></p>
 
 ]]></content>
   </entry>

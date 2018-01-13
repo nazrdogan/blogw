@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Ionic 2 | My Octopress Blog]]></title>
-  <link href="http://yoursite.com/blog/categories/ionic-2/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2018-01-14T02:24:00+03:00</updated>
-  <id>http://yoursite.com/</id>
+  <title><![CDATA[Category: Ionic 2 | Nazir Doğan Code Blog]]></title>
+  <link href="http://nazrdogan.github.io/blog/categories/ionic-2/atom.xml" rel="self"/>
+  <link href="http://nazrdogan.github.io/"/>
+  <updated>2018-01-14T02:28:23+03:00</updated>
+  <id>http://nazrdogan.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Nazir Doğan]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Ionic 2 - Google Maps]]></title>
-    <link href="http://yoursite.com/blog/2016/07/31/ionic2-googlemaps/"/>
+    <link href="http://nazrdogan.github.io/blog/2016/07/31/ionic2-googlemaps/"/>
     <updated>2016-07-31T00:00:00+03:00</updated>
-    <id>http://yoursite.com/blog/2016/07/31/ionic2-googlemaps</id>
+    <id>http://nazrdogan.github.io/blog/2016/07/31/ionic2-googlemaps</id>
     <content type="html"><![CDATA[<p>Bu yazımda Ionic 2 uygulamalarında <strong>Google Maps</strong>&lsquo;ı nasıl ekleyeceğimiz ve <strong>ionic-native</strong> kullanarak konum bilgisini almayı öğreneceğiz.</p>
 
 <p>Şimdi yeni bir ionic projesi oluşturarak başlayalım.</p>
@@ -142,7 +142,7 @@ ngOnInit() {
 }
 </code></pre>
 
-<p><img src="{{%20site.baseurl%20}}/assets/ionic-maps.png" alt="project structure" /></p>
+<p><img src="/assets/ionic-maps.png" alt="project structure" /></p>
 
 <p>Projenin Github <a href="https://github.com/nazrdogan/ionic-maps">linki</a></p>
 ]]></content>
@@ -150,10 +150,10 @@ ngOnInit() {
   
   <entry>
     <title type="html"><![CDATA[Ionic 2 - Sunucudan Veri Alma]]></title>
-    <link href="http://yoursite.com/blog/2016/07/23/ionic2-uzaktan-veri-alma/"/>
+    <link href="http://nazrdogan.github.io/blog/2016/07/23/ionic2-uzaktan-veri-alma/"/>
     <updated>2016-07-23T00:00:00+03:00</updated>
-    <id>http://yoursite.com/blog/2016/07/23/ionic2-uzaktan-veri-alma</id>
-    <content type="html"><![CDATA[<p><img src="{{%20site.baseurl%20}}/assets/ionic-weather-app.png" alt="project structure" /></p>
+    <id>http://nazrdogan.github.io/blog/2016/07/23/ionic2-uzaktan-veri-alma</id>
+    <content type="html"><![CDATA[<p><img src="/assets/ionic-weather-app.png" alt="project structure" /></p>
 
 <p>Mobil uygulamaların birçoğu servis olmadan çokta birşey ifade etmezler. ve birçok uygulama REST ve benzeri servisleri kullanmaktadır. Şimdi bizde yapacağımız uygulama ile basit bir servis çagırısı yapıp veriyi ekrana basacağız.</p>
 
@@ -178,20 +178,67 @@ ngOnInit() {
 
 <p>providers - > my-data -> my-data.ts</p>
 
-<p>{% gist nazrdogan/194f00a3183b1fcbca9f49710366c5bf %}</p>
+<p><div><script src='https://gist.github.com/194f00a3183b1fcbca9f49710366c5bf.js'></script>
+<noscript><pre><code>
+// http://ngcourse.rangle.io/handout/di/angular2/inject_and_injectable.html
+import { Injectable } from &#39;@angular/core&#39;;
+// HTTP modulünü import ediyoruz.
+import { Http } from &#39;@angular/http&#39;;
+// rxjs kütüphanesinden map&#39;i ekliyoruz.
+import &#39;rxjs/add/operator/map&#39;;
+
+/*
+  Generated class for the MyData provider.
+
+  See https://angular.io/docs/ts/latest/guide/dependency-injection.html
+  for more info on providers and Angular 2 DI.
+*/
+@Injectable()
+export class MyData {
+  data: any;
+
+  constructor(private http: Http) {
+    this.data = null;
+  }
+
+  load() {
+    if (this.data) {
+      // already loaded data
+      return Promise.resolve(this.data);
+    }
+
+    // don&#39;t have the data yet
+    return new Promise(resolve =&gt; {
+      // We&#39;re using Angular Http provider to request the data,
+      // then on the response it&#39;ll map the JSON data to a parsed JS object.
+      // Next we process the data and resolve the promise with the new data.
+      this.http.get(&#39;path/to/data.json&#39;)
+        .map(res =&gt; res.json())
+        .subscribe(data =&gt; {
+          // we&#39;ve got back the raw data, now generate the core schedule data
+          // and save the data for later reference
+          this.data = data;
+          resolve(this.data);
+        });
+    });
+  }
+}
+
+</code></pre></noscript></div>
+</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Ionic 2 - Proje Yapısı]]></title>
-    <link href="http://yoursite.com/blog/2016/07/23/ionic2-proje-yapisi/"/>
+    <link href="http://nazrdogan.github.io/blog/2016/07/23/ionic2-proje-yapisi/"/>
     <updated>2016-07-23T00:00:00+03:00</updated>
-    <id>http://yoursite.com/blog/2016/07/23/ionic2-proje-yapisi</id>
+    <id>http://nazrdogan.github.io/blog/2016/07/23/ionic2-proje-yapisi</id>
     <content type="html"><![CDATA[<p>Bir <a href="http://nazrdogan.github.io/javascript/ionic%202/2016/07/22/ionic2-kurulum.html">önceki yazımda</a> Ionic 2' nin nasıl kurulacağından bahsettim.</p>
 
 <p>Bu yazımda ise proje yapısınıdan bahsetmek ve önemli birkaç dosyayı göstermek istiyorum.</p>
 
-<p><img src="{{%20site.baseurl%20}}/assets/ionic2-project-yapi.png" alt="project structure" /></p>
+<p><img src="/assets/ionic2-project-yapi.png" alt="project structure" /></p>
 
 <p><em>Not:Görseldeki editor <a href="" title="https://www.visualstudio.com/en-us/products/code-vs.aspx">Visual Studio Code</a> ve ionic'in oluşturdugu blank projedir.Sadece homeSercives.ts dosyası eklenmiştir.</em></p>
 
@@ -203,7 +250,45 @@ ngOnInit() {
 
 <p>şimdi <strong>app.ts</strong> , <strong>home.ts</strong> , <strong>home.html</strong> &lsquo;e bakalım.</p>
 
-<p>{%gist nazrdogan/500059827d14f146350d779f1e3a99bd %}</p>
+<p><div><script src='https://gist.github.com/500059827d14f146350d779f1e3a99bd.js'></script>
+<noscript><pre><code>
+//http://learnangular2.com/components/
+import {Component} from &#39;@angular/core&#39;;
+/* ionic 1.x de karşşılıgı $ionicPlatform. Platform&#39;a yönelik işler yapılacaksa Platform&#39;u import etmek gerekiyor. 
+ ionicBootstrap ise uygulamayı başlatmak için kullanılan bir kök bileşendir.
+*/
+import {Platform, ionicBootstrap} from &#39;ionic-angular&#39;;
+/* Bu kısımda oldukça önemli 1.x kullananların  ngCordova olarak bildiği  ionic 2 ionic-native adını almıştır. 
+  http://ionicframework.com/docs/v2/native/
+*/
+import {StatusBar} from &#39;ionic-native&#39;;
+
+// Burası ise kök sayfa olarak ayarlanacak dosyayı import ediyor.
+import {HomePage} from &#39;./pages/home/home&#39;;
+
+// Componentimizi oluşturuyoruz. Bu kısım typescript ve Angular 2 oldugu için bu konulara aşina olmak gerekiyor.
+@Component({
+  template: &#39;&lt;ion-nav [root]=&quot;rootPage&quot;&gt;&lt;/ion-nav&gt;&#39;
+})
+// MyApp adında bir class oluşturuyoruz.
+export class MyApp {
+  
+  // rootPage olarak daha önceden import ettiğimiz HomePage&#39;i belirliyoruz.
+  rootPage: any = HomePage;
+ // constructor içerisinde ise yine daha önceden import ettiğimiz Platform&#39;u kullanıyoruz.
+  constructor(platform: Platform) {
+    // ionic 1.x deki gibi platform ready ile uygulamayı başlatıyoruz.
+    platform.ready().then(() =&gt; {
+      // Okay, so the platform is ready and our plugins are available.
+      // Here you can do any higher level native things you might need.
+      StatusBar.styleDefault();
+    });
+  }
+}
+// ionicBootstrap oldukça önemli eğer bunu çagırmaz isek uygulamamız başlamayacaktır.
+ionicBootstrap(MyApp);
+</code></pre></noscript></div>
+</p>
 
 <p>Proje yapısına dair söylenebilecek çok şey olsada şimdilik bu kadar. İlk bakışta biraz karışık gelebilir ama konsepti öğrendikten sonra oldukça modüler ve kullanışlı geleceğinden eminim. ionic 1.x de şikayet ettiğim birçok şeyden kurtulmuşa benziyor. Ionic 2' ye başlamadan önce  <strong>Angular 2</strong> ve <strong>Typescript</strong> çalışmanızı şiddetle tavsiye ediyorum.</p>
 ]]></content>
@@ -211,9 +296,9 @@ ngOnInit() {
   
   <entry>
     <title type="html"><![CDATA[Ionic 2 Kurulumu]]></title>
-    <link href="http://yoursite.com/blog/2016/07/22/ionic2-kurulum/"/>
+    <link href="http://nazrdogan.github.io/blog/2016/07/22/ionic2-kurulum/"/>
     <updated>2016-07-22T00:00:00+03:00</updated>
-    <id>http://yoursite.com/blog/2016/07/22/ionic2-kurulum</id>
+    <id>http://nazrdogan.github.io/blog/2016/07/22/ionic2-kurulum</id>
     <content type="html"><![CDATA[<p><img src="http://ionicframework.com/img/blog/ionic-angular-v2.jpg" alt="ionic-angular-v2" /></p>
 
 <hr />

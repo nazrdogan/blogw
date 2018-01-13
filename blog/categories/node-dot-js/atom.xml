@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: node.js | My Octopress Blog]]></title>
-  <link href="http://yoursite.com/blog/categories/node-dot-js/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2018-01-14T02:24:00+03:00</updated>
-  <id>http://yoursite.com/</id>
+  <title><![CDATA[Category: node.js | Nazir Doğan Code Blog]]></title>
+  <link href="http://nazrdogan.github.io/blog/categories/node-dot-js/atom.xml" rel="self"/>
+  <link href="http://nazrdogan.github.io/"/>
+  <updated>2018-01-14T02:28:23+03:00</updated>
+  <id>http://nazrdogan.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Nazir Doğan]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Async/Await Ile Asenkron Javascript]]></title>
-    <link href="http://yoursite.com/blog/2018/01/12/async-await-javascript/"/>
+    <link href="http://nazrdogan.github.io/blog/2018/01/12/async-await-javascript/"/>
     <updated>2018-01-12T00:00:00+03:00</updated>
-    <id>http://yoursite.com/blog/2018/01/12/async-await-javascript</id>
+    <id>http://nazrdogan.github.io/blog/2018/01/12/async-await-javascript</id>
     <content type="html"><![CDATA[<p><img src="https://www.bram.us/wordpress/wp-content/uploads/2017/05/js-callbacks-promises-asyncawait.gif" alt="async-await" /></p>
 
 <p>Yukardaki gif  Javascript geliştiricileri için oldukça büyük anlam ifade etse gerek. Javascript geliştiricleri yıllarca  asenkron kod yazmak için callback fonksiyonlarını ihtiyaç duyuyorlardı.</p>
@@ -67,9 +67,9 @@ makeRequest();
   
   <entry>
     <title type="html"><![CDATA[Yarn Paket Yöneticisi Nedir ?]]></title>
-    <link href="http://yoursite.com/blog/2017/11/18/yarn/"/>
+    <link href="http://nazrdogan.github.io/blog/2017/11/18/yarn/"/>
     <updated>2017-11-18T00:00:00+03:00</updated>
-    <id>http://yoursite.com/blog/2017/11/18/yarn</id>
+    <id>http://nazrdogan.github.io/blog/2017/11/18/yarn</id>
     <content type="html"><![CDATA[<p><img src="https://yarnpkg.com/assets/og_image.png" alt="yarn" /></p>
 
 <p>Facebook mühendisleri tarafından geliştirilmiş olan Yarn, hız ve güvenlik konusunda npm'den daha iyi olduğuna söz veriyor.</p>
@@ -106,9 +106,9 @@ makeRequest();
   
   <entry>
     <title type="html"><![CDATA[Electron Ile Web Teknolojilerini Kullanarak Masaüstü Uygulama Geliştirme]]></title>
-    <link href="http://yoursite.com/blog/2015/05/02/electron-ile-web-teknolojilerini-kullanarak-masaustu-uygulama-gelistirme/"/>
+    <link href="http://nazrdogan.github.io/blog/2015/05/02/electron-ile-web-teknolojilerini-kullanarak-masaustu-uygulama-gelistirme/"/>
     <updated>2015-05-02T10:49:29+03:00</updated>
-    <id>http://yoursite.com/blog/2015/05/02/electron-ile-web-teknolojilerini-kullanarak-masaustu-uygulama-gelistirme</id>
+    <id>http://nazrdogan.github.io/blog/2015/05/02/electron-ile-web-teknolojilerini-kullanarak-masaustu-uygulama-gelistirme</id>
     <content type="html"><![CDATA[<p>Electron , Javascript ile masaüstü uygulaması geliştirmenize  olanak  sağlayan bir runtime'dir.Electron  açık kaynak ve çapraz platfromdur .HTML ,CSS ve io.js'ten gücünü almaktadır.Electron GUI olarak web sayfasını kullanır.yani göreceginiz aslında minimal bir Chromuium tarayıcıdı.r İlk olarak Github'un Atom Editörü için geliştirilmiştir. Electron'u kullanan firmalar arasında  Microsoft ,Facebook ,Slack  ve Docker vardır. Hatta yeni çıkan Microsoft Visual Studio Code Electron tabanlıdır.</p>
 
 
@@ -138,7 +138,7 @@ npm install electron-prebuilt --save-dev
 <p>&nbsp;</p>
 
 
-<p><a href="http://www.nazirdogan.com/wp-content/uploads/2015/05/electronCMD.png"><img class="alignnone size-medium wp-image-829" src="{{ site.baseurl }}/assets/electronCMD-300x152.png" alt="electronCMD" width="300" height="152" /></a></p>
+<p><a href="http://www.nazirdogan.com/wp-content/uploads/2015/05/electronCMD.png"><img class="alignnone size-medium wp-image-829" src="/assets/electronCMD-300x152.png" alt="electronCMD" width="300" height="152" /></a></p>
 
 
 <p>&nbsp;</p>
@@ -221,7 +221,7 @@ app.on('ready', function() {
 <p>Uygulamayı çalıştırmak için  terminal de electron yazıp Enter'layalım.</p>
 
 
-<p><a href="http://www.nazirdogan.com/wp-content/uploads/2015/05/electronGUI.png"><img class="alignnone size-medium wp-image-834" src="{{ site.baseurl }}/assets/electronGUI-300x234.png" alt="electronGUI" width="300" height="234" /></a></p>
+<p><a href="http://www.nazirdogan.com/wp-content/uploads/2015/05/electronGUI.png"><img class="alignnone size-medium wp-image-834" src="/assets/electronGUI-300x234.png" alt="electronGUI" width="300" height="234" /></a></p>
 
 
 <p>&nbsp;</p>
@@ -230,7 +230,7 @@ app.on('ready', function() {
 <p>Daha sonra oluşturdugumuz  klasörü yani your-app klasörünü sürükleyip bırakalım.</p>
 
 
-<p><a href="http://www.nazirdogan.com/wp-content/uploads/2015/05/electronMerhaba.png"><img class="alignnone size-medium wp-image-835" src="{{ site.baseurl }}/assets/electronMerhaba-300x225.png" alt="electronMerhaba" width="300" height="225" /></a></p>
+<p><a href="http://www.nazirdogan.com/wp-content/uploads/2015/05/electronMerhaba.png"><img class="alignnone size-medium wp-image-835" src="/assets/electronMerhaba-300x225.png" alt="electronMerhaba" width="300" height="225" /></a></p>
 
 
 <p>&nbsp;</p>
@@ -249,9 +249,9 @@ app.on('ready', function() {
   
   <entry>
     <title type="html"><![CDATA[Node-WebKit Ile Masaüstü Uygulama Geliştirme]]></title>
-    <link href="http://yoursite.com/blog/2015/03/05/node-webkit-ile-masaustu-uygulama-gelistirme/"/>
+    <link href="http://nazrdogan.github.io/blog/2015/03/05/node-webkit-ile-masaustu-uygulama-gelistirme/"/>
     <updated>2015-03-05T11:14:40+02:00</updated>
-    <id>http://yoursite.com/blog/2015/03/05/node-webkit-ile-masaustu-uygulama-gelistirme</id>
+    <id>http://nazrdogan.github.io/blog/2015/03/05/node-webkit-ile-masaustu-uygulama-gelistirme</id>
     <content type="html"><![CDATA[<p>Node-Webkit nedir ?</p>
 
 
@@ -320,7 +320,7 @@ app.on('ready', function() {
 </pre>
 
 
-<p><a href="http://www.nazirdogan.com/wp-content/uploads/2015/03/snapshot40.png"><img class="alignnone size-full wp-image-748" src="{{ site.baseurl }}/assets/snapshot40.png" alt="snapshot40" width="784" height="557" /></a></p>
+<p><a href="http://www.nazirdogan.com/wp-content/uploads/2015/03/snapshot40.png"><img class="alignnone size-full wp-image-748" src="/assets/snapshot40.png" alt="snapshot40" width="784" height="557" /></a></p>
 
 
 <p>Temel olarak hepsi bu kadar. Node-Webkit ile web teknolojilerini kullanarak istediğiniz masaüstü uygulamasını geliştirebilirisiniz. <a href="https://github.com/nwjs/nw.js/wiki/List-of-apps-and-companies-using-nw.js">Geliştirlmiş uygulamalara burdan göz atabilirsiniz.</a>Umarım faydalı olur .Kolay gelsin :)</p>
@@ -333,9 +333,9 @@ app.on('ready', function() {
   
   <entry>
     <title type="html"><![CDATA[Javascript Ile Arduino]]></title>
-    <link href="http://yoursite.com/blog/2015/02/28/javascript-ile-arduino/"/>
+    <link href="http://nazrdogan.github.io/blog/2015/02/28/javascript-ile-arduino/"/>
     <updated>2015-02-28T12:41:23+02:00</updated>
-    <id>http://yoursite.com/blog/2015/02/28/javascript-ile-arduino</id>
+    <id>http://nazrdogan.github.io/blog/2015/02/28/javascript-ile-arduino</id>
     <content type="html"><![CDATA[<p>Bu yazımda Javascript ile Arduino kontrolünden bahsedeceğim.Node.js'ı muhtemelen duymuşsunuzdur. Ama eğer duymadıysanız  kısaca server tarafında Javascript çalıştırabileceğiniz bir platform olarak tanımlayabiliriz.</p>
 
 
@@ -401,7 +401,7 @@ v0.10.36
 <p>diyerek çalıştıralım.</p>
 
 
-<p><a href="http://www.nazirdogan.com/wp-content/uploads/2015/02/snapshot37png.png"><img class="alignnone size-full wp-image-722" src="{{ site.baseurl }}/assets/snapshot37png.png" alt="snapshot37png" width="990" height="574" /></a></p>
+<p><a href="http://www.nazirdogan.com/wp-content/uploads/2015/02/snapshot37png.png"><img class="alignnone size-full wp-image-722" src="/assets/snapshot37png.png" alt="snapshot37png" width="990" height="574" /></a></p>
 
 
 <p>&nbsp;</p>
