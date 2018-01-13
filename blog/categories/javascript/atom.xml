@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Javascript | Nazir Doğan Code Blog]]></title>
-  <link href="http://nazrdogan.github.io/blog/categories/javascript/atom.xml" rel="self"/>
-  <link href="http://nazrdogan.github.io/"/>
-  <updated>2018-01-14T02:23:58+03:00</updated>
-  <id>http://nazrdogan.github.io/</id>
+  <title><![CDATA[Category: Javascript | My Octopress Blog]]></title>
+  <link href="http://yoursite.com/blog/categories/javascript/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2018-01-14T02:24:00+03:00</updated>
+  <id>http://yoursite.com/</id>
   <author>
-    <name><![CDATA[Nazir Doğan]]></name>
+    <name><![CDATA[Your Name]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Async/Await Ile Asenkron Javascript]]></title>
-    <link href="http://nazrdogan.github.io/blog/2018/01/12/async-await-javascript/"/>
+    <link href="http://yoursite.com/blog/2018/01/12/async-await-javascript/"/>
     <updated>2018-01-12T00:00:00+03:00</updated>
-    <id>http://nazrdogan.github.io/blog/2018/01/12/async-await-javascript</id>
+    <id>http://yoursite.com/blog/2018/01/12/async-await-javascript</id>
     <content type="html"><![CDATA[<p><img src="https://www.bram.us/wordpress/wp-content/uploads/2017/05/js-callbacks-promises-asyncawait.gif" alt="async-await" /></p>
 
 <p>Yukardaki gif  Javascript geliştiricileri için oldukça büyük anlam ifade etse gerek. Javascript geliştiricleri yıllarca  asenkron kod yazmak için callback fonksiyonlarını ihtiyaç duyuyorlardı.</p>
@@ -67,9 +67,9 @@ makeRequest();
   
   <entry>
     <title type="html"><![CDATA[Yarn Paket Yöneticisi Nedir ?]]></title>
-    <link href="http://nazrdogan.github.io/blog/2017/11/18/yarn/"/>
+    <link href="http://yoursite.com/blog/2017/11/18/yarn/"/>
     <updated>2017-11-18T00:00:00+03:00</updated>
-    <id>http://nazrdogan.github.io/blog/2017/11/18/yarn</id>
+    <id>http://yoursite.com/blog/2017/11/18/yarn</id>
     <content type="html"><![CDATA[<p><img src="https://yarnpkg.com/assets/og_image.png" alt="yarn" /></p>
 
 <p>Facebook mühendisleri tarafından geliştirilmiş olan Yarn, hız ve güvenlik konusunda npm'den daha iyi olduğuna söz veriyor.</p>
@@ -106,38 +106,38 @@ makeRequest();
   
   <entry>
     <title type="html"><![CDATA[Apache Cordova Ve iOS'ta Uzaktan Hata Ayıklama]]></title>
-    <link href="http://nazrdogan.github.io/blog/2016/08/30/apache-cordova-ios-debug/"/>
+    <link href="http://yoursite.com/blog/2016/08/30/apache-cordova-ios-debug/"/>
     <updated>2016-08-30T00:00:00+03:00</updated>
-    <id>http://nazrdogan.github.io/blog/2016/08/30/apache-cordova-ios-debug</id>
+    <id>http://yoursite.com/blog/2016/08/30/apache-cordova-ios-debug</id>
     <content type="html"><![CDATA[<p>Bu yazımda Apache Cordova için iOS uygulamalarında uzaktan hata ayıklama nasıl yapılır onu göstereceğim.</p>
 
 <h5>Hata Ayıklamayı  Etkinleştirme</h5>
 
 <p>ilk olarak Safari'nin  &ldquo;Develop Menu&rdquo; kısmını etkinleştirmeniz gerekmekte. Bunun için Safari > Preferences ve  &ldquo;Show Develop Menu&rdquo; checkbox'unu seçilmiş oldugundan emin olalım.</p>
 
-<p><img src="/assets/safari-debug-enable.png" alt="safari debug enabble" /></p>
+<p><img src="{{%20site.baseurl%20}}/assets/safari-debug-enable.png" alt="safari debug enabble" /></p>
 
 <p>Şimdi ise iOS cihaz üzerinden gidip Web Denetçisini aktif hale getirmek.
 Bunun için Ayarlar > Safari > ileri Düzey ve  Web Denetçisini aktif hale getirin.</p>
 
-<p><img src="/assets/IMG_3736.PNG" alt="iphone debug enable" />
-<img src="/assets/IMG_3737.PNG" alt="iphone debug enable" />
-<img src="/assets/IMG_3738.PNG" alt="iphone debug enable" /></p>
+<p><img src="{{%20site.baseurl%20}}/assets/IMG_3736.PNG" alt="iphone debug enable" />
+<img src="{{%20site.baseurl%20}}/assets/IMG_3737.PNG" alt="iphone debug enable" />
+<img src="{{%20site.baseurl%20}}/assets/IMG_3738.PNG" alt="iphone debug enable" /></p>
 
 <h5>Safari ile Hata ayıklama</h5>
 
 <p>Gerekli ayarları yaptıktan sonra ise hata ayıklamaya geçebiliriz. Öncelikle uygulamayı cihazımızda başlatıyoruz. (Cihazımız USB ile bağlı olmalı) Daha sonra ise Safari'de Develop Menusünden  Cihazımızı seçerek hata ayıklama işlemini başlatabiliriz.</p>
 
-<p><img src="/assets/safari-debug-1.png" alt="safari debug 1" />
-<img src="/assets/safari-debug-2.png" alt="safari debug 2" /></p>
+<p><img src="{{%20site.baseurl%20}}/assets/safari-debug-1.png" alt="safari debug 1" />
+<img src="{{%20site.baseurl%20}}/assets/safari-debug-2.png" alt="safari debug 2" /></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Ionic 2 - Google Maps]]></title>
-    <link href="http://nazrdogan.github.io/blog/2016/07/31/ionic2-googlemaps/"/>
+    <link href="http://yoursite.com/blog/2016/07/31/ionic2-googlemaps/"/>
     <updated>2016-07-31T00:00:00+03:00</updated>
-    <id>http://nazrdogan.github.io/blog/2016/07/31/ionic2-googlemaps</id>
+    <id>http://yoursite.com/blog/2016/07/31/ionic2-googlemaps</id>
     <content type="html"><![CDATA[<p>Bu yazımda Ionic 2 uygulamalarında <strong>Google Maps</strong>&lsquo;ı nasıl ekleyeceğimiz ve <strong>ionic-native</strong> kullanarak konum bilgisini almayı öğreneceğiz.</p>
 
 <p>Şimdi yeni bir ionic projesi oluşturarak başlayalım.</p>
@@ -262,7 +262,7 @@ ngOnInit() {
 }
 </code></pre>
 
-<p><img src="/assets/ionic-maps.png" alt="project structure" /></p>
+<p><img src="{{%20site.baseurl%20}}/assets/ionic-maps.png" alt="project structure" /></p>
 
 <p>Projenin Github <a href="https://github.com/nazrdogan/ionic-maps">linki</a></p>
 ]]></content>
@@ -270,10 +270,10 @@ ngOnInit() {
   
   <entry>
     <title type="html"><![CDATA[Ionic 2 - Sunucudan Veri Alma]]></title>
-    <link href="http://nazrdogan.github.io/blog/2016/07/23/ionic2-uzaktan-veri-alma/"/>
+    <link href="http://yoursite.com/blog/2016/07/23/ionic2-uzaktan-veri-alma/"/>
     <updated>2016-07-23T00:00:00+03:00</updated>
-    <id>http://nazrdogan.github.io/blog/2016/07/23/ionic2-uzaktan-veri-alma</id>
-    <content type="html"><![CDATA[<p><img src="/assets/ionic-weather-app.png" alt="project structure" /></p>
+    <id>http://yoursite.com/blog/2016/07/23/ionic2-uzaktan-veri-alma</id>
+    <content type="html"><![CDATA[<p><img src="{{%20site.baseurl%20}}/assets/ionic-weather-app.png" alt="project structure" /></p>
 
 <p>Mobil uygulamaların birçoğu servis olmadan çokta birşey ifade etmezler. ve birçok uygulama REST ve benzeri servisleri kullanmaktadır. Şimdi bizde yapacağımız uygulama ile basit bir servis çagırısı yapıp veriyi ekrana basacağız.</p>
 
@@ -298,54 +298,7 @@ ngOnInit() {
 
 <p>providers - > my-data -> my-data.ts</p>
 
-<p><div><script src='https://gist.github.com/194f00a3183b1fcbca9f49710366c5bf.js'></script>
-<noscript><pre><code>
-// http://ngcourse.rangle.io/handout/di/angular2/inject_and_injectable.html
-import { Injectable } from &#39;@angular/core&#39;;
-// HTTP modulünü import ediyoruz.
-import { Http } from &#39;@angular/http&#39;;
-// rxjs kütüphanesinden map&#39;i ekliyoruz.
-import &#39;rxjs/add/operator/map&#39;;
-
-/*
-  Generated class for the MyData provider.
-
-  See https://angular.io/docs/ts/latest/guide/dependency-injection.html
-  for more info on providers and Angular 2 DI.
-*/
-@Injectable()
-export class MyData {
-  data: any;
-
-  constructor(private http: Http) {
-    this.data = null;
-  }
-
-  load() {
-    if (this.data) {
-      // already loaded data
-      return Promise.resolve(this.data);
-    }
-
-    // don&#39;t have the data yet
-    return new Promise(resolve =&gt; {
-      // We&#39;re using Angular Http provider to request the data,
-      // then on the response it&#39;ll map the JSON data to a parsed JS object.
-      // Next we process the data and resolve the promise with the new data.
-      this.http.get(&#39;path/to/data.json&#39;)
-        .map(res =&gt; res.json())
-        .subscribe(data =&gt; {
-          // we&#39;ve got back the raw data, now generate the core schedule data
-          // and save the data for later reference
-          this.data = data;
-          resolve(this.data);
-        });
-    });
-  }
-}
-
-</code></pre></noscript></div>
-</p>
+<p>{% gist nazrdogan/194f00a3183b1fcbca9f49710366c5bf %}</p>
 ]]></content>
   </entry>
   

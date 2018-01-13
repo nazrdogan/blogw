@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Open Source | Nazir Doğan Code Blog]]></title>
-  <link href="http://nazrdogan.github.io/blog/categories/open-source/atom.xml" rel="self"/>
-  <link href="http://nazrdogan.github.io/"/>
-  <updated>2018-01-14T02:23:58+03:00</updated>
-  <id>http://nazrdogan.github.io/</id>
+  <title><![CDATA[Category: Open Source | My Octopress Blog]]></title>
+  <link href="http://yoursite.com/blog/categories/open-source/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2018-01-14T02:24:00+03:00</updated>
+  <id>http://yoursite.com/</id>
   <author>
-    <name><![CDATA[Nazir Doğan]]></name>
+    <name><![CDATA[Your Name]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Chrome Developer Tools -Console API Referans]]></title>
-    <link href="http://nazrdogan.github.io/blog/2015/06/18/chrome-developer-tools-console-api-referans/"/>
+    <link href="http://yoursite.com/blog/2015/06/18/chrome-developer-tools-console-api-referans/"/>
     <updated>2015-06-18T19:44:34+03:00</updated>
-    <id>http://nazrdogan.github.io/blog/2015/06/18/chrome-developer-tools-console-api-referans</id>
+    <id>http://yoursite.com/blog/2015/06/18/chrome-developer-tools-console-api-referans</id>
     <content type="html"><![CDATA[<p>Chrome Developer Tools birçok web geliştiricinin vazgeçilmez bir araçtır. Console API ise uygulamamızda hata ayıklama, ekrana bilgi yazdırma ve Javascript  analizi yapmamıza imkan sağlamaktadır.</p>
 
 
@@ -64,7 +64,7 @@ console.assert(list.childNodes.length &lt; 10, "List item count is &gt;= 10");
 <h2></h2>
 
 
-<h2><a href="http://www.nazirdogan.com/wp-content/uploads/2015/06/assert-failed-list.png"><img class="alignnone size-full wp-image-888" src="/assets/assert-failed-list.png" alt="assert-failed-list" width="1324" height="230" /></a></h2>
+<h2><a href="http://www.nazirdogan.com/wp-content/uploads/2015/06/assert-failed-list.png"><img class="alignnone size-full wp-image-888" src="{{ site.baseurl }}/assets/assert-failed-list.png" alt="assert-failed-list" width="1324" height="230" /></a></h2>
 
 
 <h2>console.clear()</h2>
@@ -88,7 +88,7 @@ console.assert(list.childNodes.length &lt; 10, "List item count is &gt;= 10");
 }</span></code></pre>
 
 
-<p><img class="alignnone" src="/assets/count.png" alt="" width="709" height="84" /></p>
+<p><img class="alignnone" src="{{ site.baseurl }}/assets/count.png" alt="" width="709" height="84" /></p>
 
 
 <p>&nbsp;</p>
@@ -103,7 +103,7 @@ console.assert(list.childNodes.length &lt; 10, "List item count is &gt;= 10");
 }</span></code></pre>
 
 
-<p><img class="alignnone" src="/assets/count-unique.png" alt="" width="1324" height="316" /></p>
+<p><img class="alignnone" src="{{ site.baseurl }}/assets/count-unique.png" alt="" width="1324" height="316" /></p>
 
 
 <p>&nbsp;</p>
@@ -130,7 +130,7 @@ console.assert(list.childNodes.length &lt; 10, "List item count is &gt;= 10");
 <p>&nbsp;</p>
 
 
-<p><img class="alignnone" src="/assets/consoledir-body.png" alt="" width="1322" height="398" /></p>
+<p><img class="alignnone" src="{{ site.baseurl }}/assets/consoledir-body.png" alt="" width="1322" height="398" /></p>
 
 
 <p>Ayrıca  console.log'a  "%0 " yazarak  console.dir ile aynı şekilde kullanabilirsiniz.</p>
@@ -142,7 +142,7 @@ console.assert(list.childNodes.length &lt; 10, "List item count is &gt;= 10");
 <p>&nbsp;</p>
 
 
-<p><img class="alignnone" src="/assets/consolelog-object-formatter.png" alt="" width="1322" height="246" /></p>
+<p><img class="alignnone" src="{{ site.baseurl }}/assets/consolelog-object-formatter.png" alt="" width="1322" height="246" /></p>
 
 
 <p>&nbsp;</p>
@@ -168,7 +168,7 @@ console.assert(list.childNodes.length &lt; 10, "List item count is &gt;= 10");
 <p>&nbsp;</p>
 
 
-<p><img class="alignnone" src="/assets/error-server-not-resp.png" alt="" width="1130" height="319" /></p>
+<p><img class="alignnone" src="{{ site.baseurl }}/assets/error-server-not-resp.png" alt="" width="1130" height="319" /></p>
 
 
 <p>&nbsp;</p>
@@ -184,16 +184,16 @@ console.assert(list.childNodes.length &lt; 10, "List item count is &gt;= 10");
   
   <entry>
     <title type="html"><![CDATA[Cocos2d-JS Intellij IDEA Kurulumu]]></title>
-    <link href="http://nazrdogan.github.io/blog/2015/05/09/cocos2d-js-intellij-idea-kurulumu/"/>
+    <link href="http://yoursite.com/blog/2015/05/09/cocos2d-js-intellij-idea-kurulumu/"/>
     <updated>2015-05-09T14:14:30+03:00</updated>
-    <id>http://nazrdogan.github.io/blog/2015/05/09/cocos2d-js-intellij-idea-kurulumu</id>
+    <id>http://yoursite.com/blog/2015/05/09/cocos2d-js-intellij-idea-kurulumu</id>
     <content type="html"><![CDATA[<p>Bu yazımda Cocos2D-JS platformunu  Intellij IDEAüzerinde nasıl kullanacağız  onu göstereceğim. Öncelikle başlık  sizi yanıltmasın  Bu plugini Webstorm veya diğer Intellij tabanlı IDE'lerede kurabilirsiniz.</p>
 
 
 <p>Neyse lafı fazla uzatmadan adım adım kuruluma  geçelim.</p>
 
 
-<p>Öncelikle Cocos2d-js'yi ve Intellij IDEA pluginini indiriyoruz.<a href="http://www.nazirdogan.com/wp-content/uploads/2015/05/cocosidea.png"><img class="alignnone wp-image-858 size-full" src="/assets/cocosidea.png" alt="cocosidea" width="1094" height="837" /></a></p>
+<p>Öncelikle Cocos2d-js'yi ve Intellij IDEA pluginini indiriyoruz.<a href="http://www.nazirdogan.com/wp-content/uploads/2015/05/cocosidea.png"><img class="alignnone wp-image-858 size-full" src="{{ site.baseurl }}/assets/cocosidea.png" alt="cocosidea" width="1094" height="837" /></a></p>
 
 
 <p>&nbsp;</p>
@@ -211,7 +211,7 @@ console.assert(list.childNodes.length &lt; 10, "List item count is &gt;= 10");
 <p>İntelliji kurduktan sonra   açalım. Açtıktan sonra File -Settings-Plugin kısmında Install plugin from disk'e tıklayıp açılan pencereden indirdiğimiz pluginin yolunu verelim.</p>
 
 
-<p><a href="http://www.nazirdogan.com/wp-content/uploads/2015/05/2015-05-09-16_33_13-Settings.png"><img class="alignnone wp-image-862 size-full" src="/assets/2015-05-09-16_33_13-Settings.png" alt="2015-05-09 16_33_13-Settings" width="1038" height="705" /></a></p>
+<p><a href="http://www.nazirdogan.com/wp-content/uploads/2015/05/2015-05-09-16_33_13-Settings.png"><img class="alignnone wp-image-862 size-full" src="{{ site.baseurl }}/assets/2015-05-09-16_33_13-Settings.png" alt="2015-05-09 16_33_13-Settings" width="1038" height="705" /></a></p>
 
 
 <p>Hepsi bu kadar artık Intellij içerisinde cocos2d-js projesi oluşturabilirsiniz. ama yapmanız gereken birkaç şey daha var.Bunlarıda ilk proje oluştururken yada ayarladan yapabilirsiniz. şimdi onu anlatalım.</p>
@@ -223,10 +223,10 @@ console.assert(list.childNodes.length &lt; 10, "List item count is &gt;= 10");
 <p>Tekrar açtıktan sonra ise yine File-Settings altında other Settings kısmında Cocos ve Cocos Framework başlıklarını göreceksiniz.</p>
 
 
-<p><a href="http://www.nazirdogan.com/wp-content/uploads/2015/05/2015-05-09-16_36_58-Settings.png"><img class="alignnone wp-image-863 size-full" src="/assets/2015-05-09-16_36_58-Settings.png" alt="2015-05-09 16_36_58-Settings" width="1038" height="705" /></a></p>
+<p><a href="http://www.nazirdogan.com/wp-content/uploads/2015/05/2015-05-09-16_36_58-Settings.png"><img class="alignnone wp-image-863 size-full" src="{{ site.baseurl }}/assets/2015-05-09-16_36_58-Settings.png" alt="2015-05-09 16_36_58-Settings" width="1038" height="705" /></a></p>
 
 
-<p><a href="http://www.nazirdogan.com/wp-content/uploads/2015/05/2015-05-09-16_48_18-Settings.png"><img class="alignnone wp-image-864 size-full" src="/assets/2015-05-09-16_48_18-Settings.png" alt="2015-05-09 16_48_18-Settings" width="1038" height="705" /></a></p>
+<p><a href="http://www.nazirdogan.com/wp-content/uploads/2015/05/2015-05-09-16_48_18-Settings.png"><img class="alignnone wp-image-864 size-full" src="{{ site.baseurl }}/assets/2015-05-09-16_48_18-Settings.png" alt="2015-05-09 16_48_18-Settings" width="1038" height="705" /></a></p>
 
 
 <p>&nbsp;</p>
@@ -241,16 +241,16 @@ console.assert(list.childNodes.length &lt; 10, "List item count is &gt;= 10");
 <p>şimdi ise Projemizi oluşturalım.</p>
 
 
-<p><a href="http://www.nazirdogan.com/wp-content/uploads/2015/05/2015-05-09-16_55_02-New-Project.png"><img class="alignnone size-full wp-image-865" src="/assets/2015-05-09-16_55_02-New-Project.png" alt="2015-05-09 16_55_02-New Project" width="750" height="710" /></a></p>
+<p><a href="http://www.nazirdogan.com/wp-content/uploads/2015/05/2015-05-09-16_55_02-New-Project.png"><img class="alignnone size-full wp-image-865" src="{{ site.baseurl }}/assets/2015-05-09-16_55_02-New-Project.png" alt="2015-05-09 16_55_02-New Project" width="750" height="710" /></a></p>
 
 
 <p>Burada Cocos Js yi seçerek ileri diyelim.</p>
 
 
-<p><a href="http://www.nazirdogan.com/wp-content/uploads/2015/05/2015-05-09-16_56_27-New-Project.png"><img class="alignnone size-full wp-image-868" src="/assets/2015-05-09-16_56_27-New-Project.png" alt="2015-05-09 16_56_27-New Project" width="750" height="710" /></a></p>
+<p><a href="http://www.nazirdogan.com/wp-content/uploads/2015/05/2015-05-09-16_56_27-New-Project.png"><img class="alignnone size-full wp-image-868" src="{{ site.baseurl }}/assets/2015-05-09-16_56_27-New-Project.png" alt="2015-05-09 16_56_27-New Project" width="750" height="710" /></a></p>
 
 
-<p><a href="http://www.nazirdogan.com/wp-content/uploads/2015/05/2015-05-09-16_56_36-New-Project.png"><img class="alignnone size-full wp-image-867" src="/assets/2015-05-09-16_56_36-New-Project.png" alt="2015-05-09 16_56_36-New Project" width="750" height="710" /></a></p>
+<p><a href="http://www.nazirdogan.com/wp-content/uploads/2015/05/2015-05-09-16_56_36-New-Project.png"><img class="alignnone size-full wp-image-867" src="{{ site.baseurl }}/assets/2015-05-09-16_56_36-New-Project.png" alt="2015-05-09 16_56_36-New Project" width="750" height="710" /></a></p>
 
 
 <p>&nbsp;</p>
@@ -262,7 +262,7 @@ console.assert(list.childNodes.length &lt; 10, "List item count is &gt;= 10");
 <p>Finish dedikten sonra projemiz oluşacaktır. Projemizi çalıştırmak için üst menüden direk run diyebiliriz.</p>
 
 
-<p><a href="http://www.nazirdogan.com/wp-content/uploads/2015/05/2015-05-09-17_02_24-untitled2-C__Users_nazir.dogan_Documents_Cocos_untitled2-IntelliJ-IDEA-14..png"><img class="alignnone size-full wp-image-869" src="/assets/2015-05-09-17_02_24-untitled2-C__Users_nazir.dogan_Documents_Cocos_untitled2-IntelliJ-IDEA-14..png" alt="2015-05-09 17_02_24-untitled2 - [C__Users_nazir.dogan_Documents_Cocos_untitled2] - IntelliJ IDEA 14." width="1920" height="1040" /></a></p>
+<p><a href="http://www.nazirdogan.com/wp-content/uploads/2015/05/2015-05-09-17_02_24-untitled2-C__Users_nazir.dogan_Documents_Cocos_untitled2-IntelliJ-IDEA-14..png"><img class="alignnone size-full wp-image-869" src="{{ site.baseurl }}/assets/2015-05-09-17_02_24-untitled2-C__Users_nazir.dogan_Documents_Cocos_untitled2-IntelliJ-IDEA-14..png" alt="2015-05-09 17_02_24-untitled2 - [C__Users_nazir.dogan_Documents_Cocos_untitled2] - IntelliJ IDEA 14." width="1920" height="1040" /></a></p>
 
 
 <p>Projemizi böyle çalıştırdıgımızda direk olarak  Windows uygulaması şeklinde açacaktır. Ama bir ayar ile Android'te çalıştırabiliriz.</p>
@@ -274,7 +274,7 @@ console.assert(list.childNodes.length &lt; 10, "List item count is &gt;= 10");
 <p>Run menüsünden Edit Configuration'a tıklayın açılan pencereden JSBinding altında Android Debug Mode'u göreceksiniz.</p>
 
 
-<p><a href="http://www.nazirdogan.com/wp-content/uploads/2015/05/2015-05-09-17_01_18-Run_Debug-Configurations.png"><img class="alignnone size-full wp-image-870" src="/assets/2015-05-09-17_01_18-Run_Debug-Configurations.png" alt="2015-05-09 17_01_18-Run_Debug Configurations" width="1092" height="707" /></a></p>
+<p><a href="http://www.nazirdogan.com/wp-content/uploads/2015/05/2015-05-09-17_01_18-Run_Debug-Configurations.png"><img class="alignnone size-full wp-image-870" src="{{ site.baseurl }}/assets/2015-05-09-17_01_18-Run_Debug-Configurations.png" alt="2015-05-09 17_01_18-Run_Debug Configurations" width="1092" height="707" /></a></p>
 
 
 <p>Burda ayar yaptıktan sonra ise projemiz Android'te çalılşacaktır.</p>
@@ -283,7 +283,7 @@ console.assert(list.childNodes.length &lt; 10, "List item count is &gt;= 10");
 <p>Şimdilik hepsi bu kadar. Kolay gelsin.</p>
 
 
-<p><a href="http://www.nazirdogan.com/wp-content/uploads/2015/05/IMG_0916.jpg"><img class="alignnone size-full wp-image-873" src="/assets/IMG_0916.jpg" alt="IMG_0916" width="3264" height="2448" /></a></p>
+<p><a href="http://www.nazirdogan.com/wp-content/uploads/2015/05/IMG_0916.jpg"><img class="alignnone size-full wp-image-873" src="{{ site.baseurl }}/assets/IMG_0916.jpg" alt="IMG_0916" width="3264" height="2448" /></a></p>
 
 
 <p>&nbsp;</p>
@@ -299,9 +299,9 @@ console.assert(list.childNodes.length &lt; 10, "List item count is &gt;= 10");
   
   <entry>
     <title type="html"><![CDATA[Electron Ile Web Teknolojilerini Kullanarak Masaüstü Uygulama Geliştirme]]></title>
-    <link href="http://nazrdogan.github.io/blog/2015/05/02/electron-ile-web-teknolojilerini-kullanarak-masaustu-uygulama-gelistirme/"/>
+    <link href="http://yoursite.com/blog/2015/05/02/electron-ile-web-teknolojilerini-kullanarak-masaustu-uygulama-gelistirme/"/>
     <updated>2015-05-02T10:49:29+03:00</updated>
-    <id>http://nazrdogan.github.io/blog/2015/05/02/electron-ile-web-teknolojilerini-kullanarak-masaustu-uygulama-gelistirme</id>
+    <id>http://yoursite.com/blog/2015/05/02/electron-ile-web-teknolojilerini-kullanarak-masaustu-uygulama-gelistirme</id>
     <content type="html"><![CDATA[<p>Electron , Javascript ile masaüstü uygulaması geliştirmenize  olanak  sağlayan bir runtime'dir.Electron  açık kaynak ve çapraz platfromdur .HTML ,CSS ve io.js'ten gücünü almaktadır.Electron GUI olarak web sayfasını kullanır.yani göreceginiz aslında minimal bir Chromuium tarayıcıdı.r İlk olarak Github'un Atom Editörü için geliştirilmiştir. Electron'u kullanan firmalar arasında  Microsoft ,Facebook ,Slack  ve Docker vardır. Hatta yeni çıkan Microsoft Visual Studio Code Electron tabanlıdır.</p>
 
 
@@ -331,7 +331,7 @@ npm install electron-prebuilt --save-dev
 <p>&nbsp;</p>
 
 
-<p><a href="http://www.nazirdogan.com/wp-content/uploads/2015/05/electronCMD.png"><img class="alignnone size-medium wp-image-829" src="/assets/electronCMD-300x152.png" alt="electronCMD" width="300" height="152" /></a></p>
+<p><a href="http://www.nazirdogan.com/wp-content/uploads/2015/05/electronCMD.png"><img class="alignnone size-medium wp-image-829" src="{{ site.baseurl }}/assets/electronCMD-300x152.png" alt="electronCMD" width="300" height="152" /></a></p>
 
 
 <p>&nbsp;</p>
@@ -414,7 +414,7 @@ app.on('ready', function() {
 <p>Uygulamayı çalıştırmak için  terminal de electron yazıp Enter'layalım.</p>
 
 
-<p><a href="http://www.nazirdogan.com/wp-content/uploads/2015/05/electronGUI.png"><img class="alignnone size-medium wp-image-834" src="/assets/electronGUI-300x234.png" alt="electronGUI" width="300" height="234" /></a></p>
+<p><a href="http://www.nazirdogan.com/wp-content/uploads/2015/05/electronGUI.png"><img class="alignnone size-medium wp-image-834" src="{{ site.baseurl }}/assets/electronGUI-300x234.png" alt="electronGUI" width="300" height="234" /></a></p>
 
 
 <p>&nbsp;</p>
@@ -423,7 +423,7 @@ app.on('ready', function() {
 <p>Daha sonra oluşturdugumuz  klasörü yani your-app klasörünü sürükleyip bırakalım.</p>
 
 
-<p><a href="http://www.nazirdogan.com/wp-content/uploads/2015/05/electronMerhaba.png"><img class="alignnone size-medium wp-image-835" src="/assets/electronMerhaba-300x225.png" alt="electronMerhaba" width="300" height="225" /></a></p>
+<p><a href="http://www.nazirdogan.com/wp-content/uploads/2015/05/electronMerhaba.png"><img class="alignnone size-medium wp-image-835" src="{{ site.baseurl }}/assets/electronMerhaba-300x225.png" alt="electronMerhaba" width="300" height="225" /></a></p>
 
 
 <p>&nbsp;</p>
@@ -442,9 +442,9 @@ app.on('ready', function() {
   
   <entry>
     <title type="html"><![CDATA[Javascript Ile Arduino]]></title>
-    <link href="http://nazrdogan.github.io/blog/2015/02/28/javascript-ile-arduino/"/>
+    <link href="http://yoursite.com/blog/2015/02/28/javascript-ile-arduino/"/>
     <updated>2015-02-28T12:41:23+02:00</updated>
-    <id>http://nazrdogan.github.io/blog/2015/02/28/javascript-ile-arduino</id>
+    <id>http://yoursite.com/blog/2015/02/28/javascript-ile-arduino</id>
     <content type="html"><![CDATA[<p>Bu yazımda Javascript ile Arduino kontrolünden bahsedeceğim.Node.js'ı muhtemelen duymuşsunuzdur. Ama eğer duymadıysanız  kısaca server tarafında Javascript çalıştırabileceğiniz bir platform olarak tanımlayabiliriz.</p>
 
 
@@ -510,7 +510,7 @@ v0.10.36
 <p>diyerek çalıştıralım.</p>
 
 
-<p><a href="http://www.nazirdogan.com/wp-content/uploads/2015/02/snapshot37png.png"><img class="alignnone size-full wp-image-722" src="/assets/snapshot37png.png" alt="snapshot37png" width="990" height="574" /></a></p>
+<p><a href="http://www.nazirdogan.com/wp-content/uploads/2015/02/snapshot37png.png"><img class="alignnone size-full wp-image-722" src="{{ site.baseurl }}/assets/snapshot37png.png" alt="snapshot37png" width="990" height="574" /></a></p>
 
 
 <p>&nbsp;</p>
@@ -529,9 +529,9 @@ v0.10.36
   
   <entry>
     <title type="html"><![CDATA[PhoneGap/Cordova Uygulamalarında Network Bağlantı Bilgisini Alma]]></title>
-    <link href="http://nazrdogan.github.io/blog/2015/02/16/phonegapcordova-network-baglanti-bilgisini-alma/"/>
+    <link href="http://yoursite.com/blog/2015/02/16/phonegapcordova-network-baglanti-bilgisini-alma/"/>
     <updated>2015-02-16T19:49:53+02:00</updated>
-    <id>http://nazrdogan.github.io/blog/2015/02/16/phonegapcordova-network-baglanti-bilgisini-alma</id>
+    <id>http://yoursite.com/blog/2015/02/16/phonegapcordova-network-baglanti-bilgisini-alma</id>
     <content type="html"><![CDATA[<p>Bu yazımda Phonegap/Cordova uygulamalarında  Network yani ağ bağlantı bilgisinin nasıl öğreniliceğinden bahsedeceğim.</p>
 
 

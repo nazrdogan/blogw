@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Titanium Mobile | Nazir Doğan Code Blog]]></title>
-  <link href="http://nazrdogan.github.io/blog/categories/titanium-mobile/atom.xml" rel="self"/>
-  <link href="http://nazrdogan.github.io/"/>
-  <updated>2018-01-14T02:23:58+03:00</updated>
-  <id>http://nazrdogan.github.io/</id>
+  <title><![CDATA[Category: Titanium Mobile | My Octopress Blog]]></title>
+  <link href="http://yoursite.com/blog/categories/titanium-mobile/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2018-01-14T02:24:00+03:00</updated>
+  <id>http://yoursite.com/</id>
   <author>
-    <name><![CDATA[Nazir Doğan]]></name>
+    <name><![CDATA[Your Name]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Passing Data Parent to Child Controller - Titanium Alloy]]></title>
-    <link href="http://nazrdogan.github.io/blog/2015/12/24/passing-data-between-parent-to-child-controller-titanium-mobile/"/>
+    <link href="http://yoursite.com/blog/2015/12/24/passing-data-between-parent-to-child-controller-titanium-mobile/"/>
     <updated>2015-12-24T21:29:07+02:00</updated>
-    <id>http://nazrdogan.github.io/blog/2015/12/24/passing-data-between-parent-to-child-controller-titanium-mobile</id>
+    <id>http://yoursite.com/blog/2015/12/24/passing-data-between-parent-to-child-controller-titanium-mobile</id>
     <content type="html"><![CDATA[<p>In this post , I will give small snippet about passing data parent to child controller.</p>
 
 <pre><code>//index.js
@@ -69,9 +69,9 @@ var args = arguments[0] || {};
   
   <entry>
     <title type="html"><![CDATA[Appcelerator Titanium Mobile Türkçe Kitap]]></title>
-    <link href="http://nazrdogan.github.io/blog/2015/12/07/appcelerator-titanium-mobile-turkce-kitap/"/>
+    <link href="http://yoursite.com/blog/2015/12/07/appcelerator-titanium-mobile-turkce-kitap/"/>
     <updated>2015-12-07T20:19:17+02:00</updated>
-    <id>http://nazrdogan.github.io/blog/2015/12/07/appcelerator-titanium-mobile-turkce-kitap</id>
+    <id>http://yoursite.com/blog/2015/12/07/appcelerator-titanium-mobile-turkce-kitap</id>
     <content type="html"><![CDATA[<div class="ELUvyf">
 <div id="body:c1641">
 <div class="fu5e3b sMVRZe">
@@ -91,9 +91,9 @@ var args = arguments[0] || {};
   
   <entry>
     <title type="html"><![CDATA[Getting Started With Titanium Alloy MVC Framework]]></title>
-    <link href="http://nazrdogan.github.io/blog/2015/12/07/getting-started-titanium-alloy-mvc-framework/"/>
+    <link href="http://yoursite.com/blog/2015/12/07/getting-started-titanium-alloy-mvc-framework/"/>
     <updated>2015-12-07T17:36:00+02:00</updated>
-    <id>http://nazrdogan.github.io/blog/2015/12/07/getting-started-titanium-alloy-mvc-framework</id>
+    <id>http://yoursite.com/blog/2015/12/07/getting-started-titanium-alloy-mvc-framework</id>
     <content type="html"><![CDATA[<p class="p1"><strong><span class="s1">What is Alloy ?</span></strong></p>
 
 
@@ -110,7 +110,7 @@ var args = arguments[0] || {};
 
 
 <p><p class="p1">
-<p class="p1"><a href="http://www.nazirdogan.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-07-at-18.07.57.png"><img class="alignnone wp-image-939 size-medium" src="/assets/Screen-Shot-2015-12-07-at-18.07.57-244x300.png" alt="Screen Shot 2015-12-07 at 18.07.57" width="244" height="300" /></a></p>
+<p class="p1"><a href="http://www.nazirdogan.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-07-at-18.07.57.png"><img class="alignnone wp-image-939 size-medium" src="{{ site.baseurl }}/assets/Screen-Shot-2015-12-07-at-18.07.57-244x300.png" alt="Screen Shot 2015-12-07 at 18.07.57" width="244" height="300" /></a></p>
 <p class="p1">you can create model in project folder like this and as well as the other components.</p>
 <pre class="theme:sublime-text lang:default decode:true">exports.definition = {
     config: {</p>
@@ -190,10 +190,10 @@ extendCollection: function(Collection) {
   
   <entry>
     <title type="html"><![CDATA[Tizen Uygulama Geliştirme -Sertifika Oluşturma (Adım-1)]]></title>
-    <link href="http://nazrdogan.github.io/blog/2013/09/04/tizen-uygulama-gelistirme-sertifika-olusturma-adim-1/"/>
+    <link href="http://yoursite.com/blog/2013/09/04/tizen-uygulama-gelistirme-sertifika-olusturma-adim-1/"/>
     <updated>2013-09-04T07:49:57+03:00</updated>
-    <id>http://nazrdogan.github.io/blog/2013/09/04/tizen-uygulama-gelistirme-sertifika-olusturma-adim-1</id>
-    <content type="html"><![CDATA[<p><a href="http://nazirdogan.files.wordpress.com/2013/09/tizenide1.png"><img class="alignnone size-medium wp-image-111" alt="tizenIDE1" src="/assets/tizenide1.png?w=300" width="600" height="406" /></a></p>
+    <id>http://yoursite.com/blog/2013/09/04/tizen-uygulama-gelistirme-sertifika-olusturma-adim-1</id>
+    <content type="html"><![CDATA[<p><a href="http://nazirdogan.files.wordpress.com/2013/09/tizenide1.png"><img class="alignnone size-medium wp-image-111" alt="tizenIDE1" src="{{ site.baseurl }}/assets/tizenide1.png?w=300" width="600" height="406" /></a></p>
 
 
 <p>Tizen SDK'yi indirkten sonra ilk olarak yapmamız gereken iş  Sertifika oluşturmak. Peki neden sertifikalara ihtiyaç var derseniz.  güvenlik sebebi ile  ihtiyaç duyuyoruz.(ayrıntılı bilgi için burayı <a href="http://www.bilgiguvenligi.gov.tr/guvenlik-teknolojileri/sertifika-sertifika-olusturma-sertifika-turleri.html">okuyabilirsiniz</a>.)</p>
@@ -214,7 +214,7 @@ extendCollection: function(Collection) {
 <p>yolunu izleriz.</p>
 
 
-<p><a href="http://nazirdogan.files.wordpress.com/2013/09/tizensecurityprofiles.png"><img class="alignnone size-medium wp-image-113" alt="tizensecurityprofiles" src="/assets/tizensecurityprofiles.png?w=300" width="800" height="492" /></a></p>
+<p><a href="http://nazirdogan.files.wordpress.com/2013/09/tizensecurityprofiles.png"><img class="alignnone size-medium wp-image-113" alt="tizensecurityprofiles" src="{{ site.baseurl }}/assets/tizensecurityprofiles.png?w=300" width="800" height="492" /></a></p>
 
 
 <p>Bu ekranı gördükten  sonra imzalı (signed) profil eklemek için  Profiles panelinden  <strong>Add 'e </strong>tıklayın.</p>
@@ -223,7 +223,7 @@ extendCollection: function(Collection) {
 <p>Profilinize isim verdikten sonra  <strong>Generate</strong>'e tıklayın.</p>
 
 
-<p><a href="http://nazirdogan.files.wordpress.com/2013/09/tizencertificate.png"><img class="alignnone size-large wp-image-120" alt="tizencertificate" src="/assets/tizencertificate.png?w=1024" width="1024" height="548" /></a></p>
+<p><a href="http://nazirdogan.files.wordpress.com/2013/09/tizencertificate.png"><img class="alignnone size-large wp-image-120" alt="tizencertificate" src="{{ site.baseurl }}/assets/tizencertificate.png?w=1024" width="1024" height="548" /></a></p>
 
 
 <p>Gerekli alanları doldurduktan sonra <strong><br />
@@ -237,19 +237,19 @@ Apply  </strong>dedikten sonra Sertifikalarımız oluşturmuş oluyoruz.</p>
   
   <entry>
     <title type="html"><![CDATA[Tizen Uygulama Geliştirme (Adım 0)]]></title>
-    <link href="http://nazrdogan.github.io/blog/2013/09/03/tizen-uygulama-gelistirme-adim-0/"/>
+    <link href="http://yoursite.com/blog/2013/09/03/tizen-uygulama-gelistirme-adim-0/"/>
     <updated>2013-09-03T21:27:15+03:00</updated>
-    <id>http://nazrdogan.github.io/blog/2013/09/03/tizen-uygulama-gelistirme-adim-0</id>
+    <id>http://yoursite.com/blog/2013/09/03/tizen-uygulama-gelistirme-adim-0</id>
     <content type="html"><![CDATA[<p>Her platformda oldugu gibi Tizen'de de uygulama geliştirmek için bir SDK(Software Development Kit) 'e sahip.</p>
 
 
 <p>Şu an en  güncel sürüm olan Tizen 2.2  SDK'yi i<a href="https://developer.tizen.org/">ndirebilirsiniz</a>.</p>
 
 
-<p><a href="http://nazirdogan.files.wordpress.com/2013/09/tizensdkdownload.png"><img class="alignnone size-medium wp-image-87" alt="tizensdkdownload" src="/assets/tizensdkdownload.png?w=300" width="600" height="652" /></a></p>
+<p><a href="http://nazirdogan.files.wordpress.com/2013/09/tizensdkdownload.png"><img class="alignnone size-medium wp-image-87" alt="tizensdkdownload" src="{{ site.baseurl }}/assets/tizensdkdownload.png?w=300" width="600" height="652" /></a></p>
 
 
-<p>i<a href="http://nazirdogan.files.wordpress.com/2013/09/tizensdkdownload1.png"><img class="alignnone size-medium wp-image-91" alt="tizensdkdownload1" src="/assets/tizensdkdownload1.png?w=221" width="421" height="600" /></a></p>
+<p>i<a href="http://nazirdogan.files.wordpress.com/2013/09/tizensdkdownload1.png"><img class="alignnone size-medium wp-image-91" alt="tizensdkdownload1" src="{{ site.baseurl }}/assets/tizensdkdownload1.png?w=221" width="421" height="600" /></a></p>
 
 
 <p>Tizen SDK , platform binarylerini,döküman ve örnek kodlardan oluşmakta.Ayrıca Tizen SDK ile beraber Eclipse temelli bir IDE gelmekte.<br />

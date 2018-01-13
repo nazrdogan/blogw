@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Cordova | Nazir Doğan Code Blog]]></title>
-  <link href="http://nazrdogan.github.io/blog/categories/cordova/atom.xml" rel="self"/>
-  <link href="http://nazrdogan.github.io/"/>
-  <updated>2018-01-14T02:23:58+03:00</updated>
-  <id>http://nazrdogan.github.io/</id>
+  <title><![CDATA[Category: Cordova | My Octopress Blog]]></title>
+  <link href="http://yoursite.com/blog/categories/cordova/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2018-01-14T02:24:00+03:00</updated>
+  <id>http://yoursite.com/</id>
   <author>
-    <name><![CDATA[Nazir Doğan]]></name>
+    <name><![CDATA[Your Name]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Focusing an Input Field Ionic and Angular Application.]]></title>
-    <link href="http://nazrdogan.github.io/blog/2015/12/07/focusing-an-input-field-ionic-and-angular-application/"/>
+    <link href="http://yoursite.com/blog/2015/12/07/focusing-an-input-field-ionic-and-angular-application/"/>
     <updated>2015-12-07T21:30:49+02:00</updated>
-    <id>http://nazrdogan.github.io/blog/2015/12/07/focusing-an-input-field-ionic-and-angular-application</id>
+    <id>http://yoursite.com/blog/2015/12/07/focusing-an-input-field-ionic-and-angular-application</id>
     <content type="html"><![CDATA[<p>if you developing Angular/Ionic application. Maybe you need to focusing input field. with this small code snippet is very easy.</p>
 
 
@@ -45,9 +45,9 @@
   
   <entry>
     <title type="html"><![CDATA[Integrating Jshint in Ionic Framework]]></title>
-    <link href="http://nazrdogan.github.io/blog/2015/08/02/integrating-jshint-in-ionic-framework/"/>
+    <link href="http://yoursite.com/blog/2015/08/02/integrating-jshint-in-ionic-framework/"/>
     <updated>2015-08-02T17:02:52+03:00</updated>
-    <id>http://nazrdogan.github.io/blog/2015/08/02/integrating-jshint-in-ionic-framework</id>
+    <id>http://yoursite.com/blog/2015/08/02/integrating-jshint-in-ionic-framework</id>
     <content type="html"><![CDATA[<p>if you are developing ionic apps.  you can see build system in your projects which is  Gulp . it's not ionic specific but it's used in ionic projects and many other project ,its so similar to Grunt.</p>
 
 
@@ -152,9 +152,9 @@ gulp.task('watch', function() {
   
   <entry>
     <title type="html"><![CDATA[AngularJS Ve Topcoat Ile Mobil Uygulama Geliştirme]]></title>
-    <link href="http://nazrdogan.github.io/blog/2015/03/06/angularjs-ve-topcoat-ile-mobil-uygulama-gelistirme/"/>
+    <link href="http://yoursite.com/blog/2015/03/06/angularjs-ve-topcoat-ile-mobil-uygulama-gelistirme/"/>
     <updated>2015-03-06T02:22:14+02:00</updated>
-    <id>http://nazrdogan.github.io/blog/2015/03/06/angularjs-ve-topcoat-ile-mobil-uygulama-gelistirme</id>
+    <id>http://yoursite.com/blog/2015/03/06/angularjs-ve-topcoat-ile-mobil-uygulama-gelistirme</id>
     <content type="html"><![CDATA[<p>AngularJS'i muhtemelen duymuşsunuzdur. Topcoat ise hızlı web uygulamaları geliştirmek için geliştirilen bir CSS framework'u desek yanlış birşey söylememiş oluruz sanırım.</p>
 
 
@@ -192,7 +192,7 @@ cordova platform add android
 <p>Dakikalar içinde yaptıgım  Angular Topcoat Demosunun <a href="https://github.com/nazrdogan/CordovaAngularTopcoat">Github sayfasına</a> bakabilirsiniz. Kolay Gelsin.</p>
 
 
-<p><img class="alignnone" src="/assets/ss.jpg" alt="" width="800" height="1280" /></p>
+<p><img class="alignnone" src="{{ site.baseurl }}/assets/ss.jpg" alt="" width="800" height="1280" /></p>
 
 
 <p>&nbsp;</p>
@@ -208,9 +208,9 @@ cordova platform add android
   
   <entry>
     <title type="html"><![CDATA[PhoneGap/Cordova Uygulamalarında ActionSheet Kullanımı]]></title>
-    <link href="http://nazrdogan.github.io/blog/2015/03/05/phonegapcordova-uygulamalarinda-actionsheet-kullanimi/"/>
+    <link href="http://yoursite.com/blog/2015/03/05/phonegapcordova-uygulamalarinda-actionsheet-kullanimi/"/>
     <updated>2015-03-05T21:22:40+02:00</updated>
-    <id>http://nazrdogan.github.io/blog/2015/03/05/phonegapcordova-uygulamalarinda-actionsheet-kullanimi</id>
+    <id>http://yoursite.com/blog/2015/03/05/phonegapcordova-uygulamalarinda-actionsheet-kullanimi</id>
     <content type="html"><![CDATA[<p>Action Sheet  native olarak kullanıcıya seçenek listesinden birşey seçtirmek için kullanabileceginiz bir plugindir.  Birçok uygulamada görebilirsiniz. ( Yazının sonundaki görsele bakarsanız daha anlaşılır olabilir.) Plugin iOS, Android ve Windows Phone platformlarını desteklemektedir.</p>
 
 
@@ -313,16 +313,16 @@ cordova platform add android
 <p><a href="https://github.com/EddyVerbruggen/cordova-plugin-actionsheet">ActionSheet Github sayfasını ziyaret edip daha fazla bilgi alabilirsiniz.</a></p>
 
 
-<p><a href="http://www.nazirdogan.com/wp-content/uploads/2015/03/snapshot41.png"><img class="alignnone size-full wp-image-760" src="/assets/snapshot41.png" alt="snapshot41" width="532" height="819" /></a></p>
+<p><a href="http://www.nazirdogan.com/wp-content/uploads/2015/03/snapshot41.png"><img class="alignnone size-full wp-image-760" src="{{ site.baseurl }}/assets/snapshot41.png" alt="snapshot41" width="532" height="819" /></a></p>
 
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[PhoneGap/Cordova - AdMob İle Uygulamaya Reklam Eklenmesi]]></title>
-    <link href="http://nazrdogan.github.io/blog/2015/02/28/phonegapcordova-admob-ile-uygulamaya-reklam-eklenmesi/"/>
+    <link href="http://yoursite.com/blog/2015/02/28/phonegapcordova-admob-ile-uygulamaya-reklam-eklenmesi/"/>
     <updated>2015-02-28T18:48:53+02:00</updated>
-    <id>http://nazrdogan.github.io/blog/2015/02/28/phonegapcordova-admob-ile-uygulamaya-reklam-eklenmesi</id>
+    <id>http://yoursite.com/blog/2015/02/28/phonegapcordova-admob-ile-uygulamaya-reklam-eklenmesi</id>
     <content type="html"><![CDATA[<p>Appstore'da ve Google Play'deki uygulamaların birçoğu  ücretsiz olup gelir modeli olarak  ise  reklam alma olarak belirlenmiştir. Bunun için birçok reklam servisi vardır. Bunlardan en ünlüsü ve en tercih edileni ise Google'un sahibi olduğu  AdMob'tur.</p>
 
 
@@ -338,7 +338,7 @@ cordova platform add android
 <p>Giriş yaptıktan sonra bu ekranı göreceksiniz.</p>
 
 
-<p><a href="http://www.nazirdogan.com/wp-content/uploads/2015/02/snapshot38.png"><img class="alignnone size-large wp-image-734" src="/assets/snapshot38-1024x492.png" alt="snapshot38" width="770" height="370" /></a></p>
+<p><a href="http://www.nazirdogan.com/wp-content/uploads/2015/02/snapshot38.png"><img class="alignnone size-large wp-image-734" src="{{ site.baseurl }}/assets/snapshot38-1024x492.png" alt="snapshot38" width="770" height="370" /></a></p>
 
 
 <p>"Monetize New App"  diyerek uygulamamızı ekliyoruz. Burda uzun uzadıya bahsetmeme gerek yok sanırım.</p>
@@ -362,7 +362,7 @@ cordova platform add android
 <p>Ekran görüntüsü:</p>
 
 
-<p><a href="http://www.nazirdogan.com/wp-content/uploads/2015/02/Screenshot_2015-02-28-20-04-12.jpg"><img class="alignnone size-large wp-image-738" src="/assets/Screenshot_2015-02-28-20-04-12-640x1024.jpg" alt="Screenshot_2015-02-28-20-04-12" width="640" height="1024" /></a></p>
+<p><a href="http://www.nazirdogan.com/wp-content/uploads/2015/02/Screenshot_2015-02-28-20-04-12.jpg"><img class="alignnone size-large wp-image-738" src="{{ site.baseurl }}/assets/Screenshot_2015-02-28-20-04-12-640x1024.jpg" alt="Screenshot_2015-02-28-20-04-12" width="640" height="1024" /></a></p>
 
 
 <p>&nbsp;</p>
