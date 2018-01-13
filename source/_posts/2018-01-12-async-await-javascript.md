@@ -44,6 +44,7 @@ async function makeRequest() {
       console.log(result.body); 
   });
 }
+
 makeRequest();
 
 ```
