@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Cocos2d-js | Nazir Doğan Code Blog]]></title>
-  <link href="http://nazrdogan.github.io/blog/categories/cocos2d-js/atom.xml" rel="self"/>
-  <link href="http://nazrdogan.github.io/"/>
-  <updated>2018-01-14T02:28:23+03:00</updated>
-  <id>http://nazrdogan.github.io/</id>
+  <title><![CDATA[Category: Cocos2d-js | My Octopress Blog]]></title>
+  <link href="http://yoursite.com/blog/categories/cocos2d-js/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2018-01-14T02:28:24+03:00</updated>
+  <id>http://yoursite.com/</id>
   <author>
-    <name><![CDATA[Nazir Doğan]]></name>
+    <name><![CDATA[Your Name]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hello World Application Cocos2d-js V3]]></title>
-    <link href="http://nazrdogan.github.io/blog/2015/12/18/hello-world-cocos2d-js/"/>
+    <link href="http://yoursite.com/blog/2015/12/18/hello-world-cocos2d-js/"/>
     <updated>2015-12-18T10:54:39+02:00</updated>
-    <id>http://nazrdogan.github.io/blog/2015/12/18/hello-world-cocos2d-js</id>
+    <id>http://yoursite.com/blog/2015/12/18/hello-world-cocos2d-js</id>
     <content type="html"><![CDATA[<p class="p1"><span class="s1">In this post , we can start a real cross platform cocos2d-js example. Let's begin </span><span class="s1">(If you don't read posts about setup and what is cocos2d-js you can click to check  underlined blog posts.) </span><span class="s1">If you created a project you should see index.html page . There is no interesting things in here it's just plain   HTML. </span></p>
 
 
@@ -213,9 +213,9 @@ var HelloWorldScene = cc.Scene.extend({
   
   <entry>
     <title type="html"><![CDATA[The Structure of Cocos2d-JS Project]]></title>
-    <link href="http://nazrdogan.github.io/blog/2015/12/15/the-structure-of-cocos2d-js-project/"/>
+    <link href="http://yoursite.com/blog/2015/12/15/the-structure-of-cocos2d-js-project/"/>
     <updated>2015-12-15T21:03:39+02:00</updated>
-    <id>http://nazrdogan.github.io/blog/2015/12/15/the-structure-of-cocos2d-js-project</id>
+    <id>http://yoursite.com/blog/2015/12/15/the-structure-of-cocos2d-js-project</id>
     <content type="html"><![CDATA[<p>Cocos2d-js project structure is really simple to understand. so let's look at screenshoot of a folder with a Cocos2d-js project.</p>
 
 
@@ -237,9 +237,9 @@ var HelloWorldScene = cc.Scene.extend({
   
   <entry>
     <title type="html"><![CDATA[Running Cocos2d-js Project on Android and iOS]]></title>
-    <link href="http://nazrdogan.github.io/blog/2015/12/14/running-cocos2d-js-project-android-ios/"/>
+    <link href="http://yoursite.com/blog/2015/12/14/running-cocos2d-js-project-android-ios/"/>
     <updated>2015-12-14T23:33:58+02:00</updated>
-    <id>http://nazrdogan.github.io/blog/2015/12/14/running-cocos2d-js-project-android-ios</id>
+    <id>http://yoursite.com/blog/2015/12/14/running-cocos2d-js-project-android-ios</id>
     <content type="html"><![CDATA[<p>If you created Cocos2d-js native project.(if you dont create yet .pleas follow this <a href="http://www.nazirdogan.com/cocos2d-js/creating-a-new-cocos2d-js-project/">link</a>) You can run on Android and OS devices or simulators. Running project so easy</p>
 
 
@@ -279,9 +279,9 @@ cocos run -p ios|mac|android
   
   <entry>
     <title type="html"><![CDATA[Creating a New Cocos2d-js Project]]></title>
-    <link href="http://nazrdogan.github.io/blog/2015/12/13/creating-a-new-cocos2d-js-project/"/>
+    <link href="http://yoursite.com/blog/2015/12/13/creating-a-new-cocos2d-js-project/"/>
     <updated>2015-12-13T20:06:27+02:00</updated>
-    <id>http://nazrdogan.github.io/blog/2015/12/13/creating-a-new-cocos2d-js-project</id>
+    <id>http://yoursite.com/blog/2015/12/13/creating-a-new-cocos2d-js-project</id>
     <content type="html"><![CDATA[<p>If you installed Cocos2d-js successfully. Now you can create a new project for developing Cocos2d-js game. if you dont install Cocos2d-js yet. Please follow this <a href="http://www.nazirdogan.com/cocos2d-js/install-cocos2d-js-mac/">link</a>.</p>
 
 
@@ -324,9 +324,9 @@ cocos run -p web</pre>
   
   <entry>
     <title type="html"><![CDATA[How to Install Cocos2d-js on Mac]]></title>
-    <link href="http://nazrdogan.github.io/blog/2015/12/12/install-cocos2d-js-mac/"/>
+    <link href="http://yoursite.com/blog/2015/12/12/install-cocos2d-js-mac/"/>
     <updated>2015-12-12T10:42:38+02:00</updated>
-    <id>http://nazrdogan.github.io/blog/2015/12/12/install-cocos2d-js-mac</id>
+    <id>http://yoursite.com/blog/2015/12/12/install-cocos2d-js-mac</id>
     <content type="html"><![CDATA[<p>In this post , I will give information about  how to setup Cocos2d-js development environment.</p>
 
 

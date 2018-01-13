@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://nazrdogan.github.io/sitemap.xml 
+Sitemap: http://yoursite.com/sitemap.xml 

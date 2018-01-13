@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Javascript | Nazir Doğan Code Blog]]></title>
-  <link href="http://nazrdogan.github.io/blog/categories/javascript/atom.xml" rel="self"/>
-  <link href="http://nazrdogan.github.io/"/>
-  <updated>2018-01-14T02:28:23+03:00</updated>
-  <id>http://nazrdogan.github.io/</id>
+  <title><![CDATA[Category: Javascript | My Octopress Blog]]></title>
+  <link href="http://yoursite.com/blog/categories/javascript/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2018-01-14T02:28:24+03:00</updated>
+  <id>http://yoursite.com/</id>
   <author>
-    <name><![CDATA[Nazir Doğan]]></name>
+    <name><![CDATA[Your Name]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Async/Await Ile Asenkron Javascript]]></title>
-    <link href="http://nazrdogan.github.io/blog/2018/01/12/async-await-javascript/"/>
+    <link href="http://yoursite.com/blog/2018/01/12/async-await-javascript/"/>
     <updated>2018-01-12T00:00:00+03:00</updated>
-    <id>http://nazrdogan.github.io/blog/2018/01/12/async-await-javascript</id>
+    <id>http://yoursite.com/blog/2018/01/12/async-await-javascript</id>
     <content type="html"><![CDATA[<p><img src="https://www.bram.us/wordpress/wp-content/uploads/2017/05/js-callbacks-promises-asyncawait.gif" alt="async-await" /></p>
 
 <p>Yukardaki gif  Javascript geliştiricileri için oldukça büyük anlam ifade etse gerek. Javascript geliştiricleri yıllarca  asenkron kod yazmak için callback fonksiyonlarını ihtiyaç duyuyorlardı.</p>
@@ -44,6 +44,7 @@ async function makeRequest() {
       console.log(result.body); 
   });
 }
+
 makeRequest();
 </code></pre>
 
@@ -67,9 +68,9 @@ makeRequest();
   
   <entry>
     <title type="html"><![CDATA[Yarn Paket Yöneticisi Nedir ?]]></title>
-    <link href="http://nazrdogan.github.io/blog/2017/11/18/yarn/"/>
+    <link href="http://yoursite.com/blog/2017/11/18/yarn/"/>
     <updated>2017-11-18T00:00:00+03:00</updated>
-    <id>http://nazrdogan.github.io/blog/2017/11/18/yarn</id>
+    <id>http://yoursite.com/blog/2017/11/18/yarn</id>
     <content type="html"><![CDATA[<p><img src="https://yarnpkg.com/assets/og_image.png" alt="yarn" /></p>
 
 <p>Facebook mühendisleri tarafından geliştirilmiş olan Yarn, hız ve güvenlik konusunda npm'den daha iyi olduğuna söz veriyor.</p>
@@ -106,9 +107,9 @@ makeRequest();
   
   <entry>
     <title type="html"><![CDATA[Apache Cordova Ve iOS'ta Uzaktan Hata Ayıklama]]></title>
-    <link href="http://nazrdogan.github.io/blog/2016/08/30/apache-cordova-ios-debug/"/>
+    <link href="http://yoursite.com/blog/2016/08/30/apache-cordova-ios-debug/"/>
     <updated>2016-08-30T00:00:00+03:00</updated>
-    <id>http://nazrdogan.github.io/blog/2016/08/30/apache-cordova-ios-debug</id>
+    <id>http://yoursite.com/blog/2016/08/30/apache-cordova-ios-debug</id>
     <content type="html"><![CDATA[<p>Bu yazımda Apache Cordova için iOS uygulamalarında uzaktan hata ayıklama nasıl yapılır onu göstereceğim.</p>
 
 <h5>Hata Ayıklamayı  Etkinleştirme</h5>
@@ -135,9 +136,9 @@ Bunun için Ayarlar > Safari > ileri Düzey ve  Web Denetçisini aktif hale geti
   
   <entry>
     <title type="html"><![CDATA[Ionic 2 - Google Maps]]></title>
-    <link href="http://nazrdogan.github.io/blog/2016/07/31/ionic2-googlemaps/"/>
+    <link href="http://yoursite.com/blog/2016/07/31/ionic2-googlemaps/"/>
     <updated>2016-07-31T00:00:00+03:00</updated>
-    <id>http://nazrdogan.github.io/blog/2016/07/31/ionic2-googlemaps</id>
+    <id>http://yoursite.com/blog/2016/07/31/ionic2-googlemaps</id>
     <content type="html"><![CDATA[<p>Bu yazımda Ionic 2 uygulamalarında <strong>Google Maps</strong>&lsquo;ı nasıl ekleyeceğimiz ve <strong>ionic-native</strong> kullanarak konum bilgisini almayı öğreneceğiz.</p>
 
 <p>Şimdi yeni bir ionic projesi oluşturarak başlayalım.</p>
@@ -270,9 +271,9 @@ ngOnInit() {
   
   <entry>
     <title type="html"><![CDATA[Ionic 2 - Sunucudan Veri Alma]]></title>
-    <link href="http://nazrdogan.github.io/blog/2016/07/23/ionic2-uzaktan-veri-alma/"/>
+    <link href="http://yoursite.com/blog/2016/07/23/ionic2-uzaktan-veri-alma/"/>
     <updated>2016-07-23T00:00:00+03:00</updated>
-    <id>http://nazrdogan.github.io/blog/2016/07/23/ionic2-uzaktan-veri-alma</id>
+    <id>http://yoursite.com/blog/2016/07/23/ionic2-uzaktan-veri-alma</id>
     <content type="html"><![CDATA[<p><img src="/assets/ionic-weather-app.png" alt="project structure" /></p>
 
 <p>Mobil uygulamaların birçoğu servis olmadan çokta birşey ifade etmezler. ve birçok uygulama REST ve benzeri servisleri kullanmaktadır. Şimdi bizde yapacağımız uygulama ile basit bir servis çagırısı yapıp veriyi ekrana basacağız.</p>

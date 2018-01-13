@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Api | Nazir Doğan Code Blog]]></title>
-  <link href="http://nazrdogan.github.io/blog/categories/api/atom.xml" rel="self"/>
-  <link href="http://nazrdogan.github.io/"/>
-  <updated>2018-01-14T02:28:23+03:00</updated>
-  <id>http://nazrdogan.github.io/</id>
+  <title><![CDATA[Category: Api | My Octopress Blog]]></title>
+  <link href="http://yoursite.com/blog/categories/api/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2018-01-14T02:28:24+03:00</updated>
+  <id>http://yoursite.com/</id>
   <author>
-    <name><![CDATA[Nazir Doğan]]></name>
+    <name><![CDATA[Your Name]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Chrome Developer Tools -Console API Referans]]></title>
-    <link href="http://nazrdogan.github.io/blog/2015/06/18/chrome-developer-tools-console-api-referans/"/>
+    <link href="http://yoursite.com/blog/2015/06/18/chrome-developer-tools-console-api-referans/"/>
     <updated>2015-06-18T19:44:34+03:00</updated>
-    <id>http://nazrdogan.github.io/blog/2015/06/18/chrome-developer-tools-console-api-referans</id>
+    <id>http://yoursite.com/blog/2015/06/18/chrome-developer-tools-console-api-referans</id>
     <content type="html"><![CDATA[<p>Chrome Developer Tools birçok web geliştiricinin vazgeçilmez bir araçtır. Console API ise uygulamamızda hata ayıklama, ekrana bilgi yazdırma ve Javascript  analizi yapmamıza imkan sağlamaktadır.</p>
 
 
@@ -184,9 +184,9 @@ console.assert(list.childNodes.length &lt; 10, "List item count is &gt;= 10");
   
   <entry>
     <title type="html"><![CDATA[Tizen Uygulama Geliştirme - Merhaba Dünya Native Uygulama]]></title>
-    <link href="http://nazrdogan.github.io/blog/2013/09/21/tizen-uygulama-gelistirme-merhaba-dunya-native-uygulama/"/>
+    <link href="http://yoursite.com/blog/2013/09/21/tizen-uygulama-gelistirme-merhaba-dunya-native-uygulama/"/>
     <updated>2013-09-21T07:48:04+03:00</updated>
-    <id>http://nazrdogan.github.io/blog/2013/09/21/tizen-uygulama-gelistirme-merhaba-dunya-native-uygulama</id>
+    <id>http://yoursite.com/blog/2013/09/21/tizen-uygulama-gelistirme-merhaba-dunya-native-uygulama</id>
     <content type="html"><![CDATA[<p>Tizen uygulama geliştirmenin iki tane yolu olduğundan daha öncede bahsetmiştik.Bu yazımda ise Native bir Hello World uygulaması nasıl yapılır.Arayüz nasıl tasarlanır onun üzerinde duracağım.</p>
 
 <p>ilk adım olarak</p>
@@ -231,9 +231,9 @@ console.assert(list.childNodes.length &lt; 10, "List item count is &gt;= 10");
   
   <entry>
     <title type="html"><![CDATA[Tizen Geliştirici Telefonu]]></title>
-    <link href="http://nazrdogan.github.io/blog/2013/09/03/tizen-gelistirici-telefonu/"/>
+    <link href="http://yoursite.com/blog/2013/09/03/tizen-gelistirici-telefonu/"/>
     <updated>2013-09-03T19:19:18+03:00</updated>
-    <id>http://nazrdogan.github.io/blog/2013/09/03/tizen-gelistirici-telefonu</id>
+    <id>http://yoursite.com/blog/2013/09/03/tizen-gelistirici-telefonu</id>
     <content type="html"><![CDATA[<p>Tizen projesini ilk duyurulduğu günden beri takip eden biri olarak  ilk telefonların ne zaman çıkacağını hep merak ettim.Daha sonrasında ise bazı yabancı sitelerde ilk  geliştirici cihazlarının dağıtıldığını gördüm.Keşke benimde elime bir tane geçsede kurcalasam diye düşündüm.Aradan belki bir sene belki daha az zaman geçtikten sonra  yeni Tizen cihazın geliştiricelere dağıtıldığını gördüm.Daha sonra ise Tizen Türkiye sayfasında geliştirici cihazlarının   belirli bir süre için geliştiricilere verildigini gördüm. Bazı prosedürlerden  sonra  cihaz geçen cuma günü elime ulaştı.Özellikle Tizen Türkiye'den Oytun EREN Bey'e özellikle teşekkür etmek istiyorum.Değerli vaktini ve emegini ayırdığı için.</p>
 
 

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Qt | Nazir Doğan Code Blog]]></title>
-  <link href="http://nazrdogan.github.io/blog/categories/qt/atom.xml" rel="self"/>
-  <link href="http://nazrdogan.github.io/"/>
-  <updated>2018-01-14T02:28:23+03:00</updated>
-  <id>http://nazrdogan.github.io/</id>
+  <title><![CDATA[Category: Qt | My Octopress Blog]]></title>
+  <link href="http://yoursite.com/blog/categories/qt/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2018-01-14T02:28:24+03:00</updated>
+  <id>http://yoursite.com/</id>
   <author>
-    <name><![CDATA[Nazir Doğan]]></name>
+    <name><![CDATA[Your Name]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Sailfish Merhaba Dünya Uygulaması]]></title>
-    <link href="http://nazrdogan.github.io/blog/2013/12/16/sailfish-merhaba-dunya-uygulamasi/"/>
+    <link href="http://yoursite.com/blog/2013/12/16/sailfish-merhaba-dunya-uygulamasi/"/>
     <updated>2013-12-16T10:58:29+02:00</updated>
-    <id>http://nazrdogan.github.io/blog/2013/12/16/sailfish-merhaba-dunya-uygulamasi</id>
+    <id>http://yoursite.com/blog/2013/12/16/sailfish-merhaba-dunya-uygulamasi</id>
     <content type="html"><![CDATA[<p>Nokia'dan ayrılan bir grup geliştiricinin MeeGo projesinin devamı olarak piyasaya sundukları Sailfish OS ve ilk Jolla cihazlarını kısıtlı sayıda olsada çıkarmış bulunuyorlar.</p>
 
 
@@ -75,9 +75,9 @@ $ ./Downloads/&lt;installer_name&gt;</pre>
   
   <entry>
     <title type="html"><![CDATA[Ubuntu üzerinde QT Ve MySql Baglantısı]]></title>
-    <link href="http://nazrdogan.github.io/blog/2013/12/03/ubuntu-uzerinde-qt-ve-mysql-baglantisi/"/>
+    <link href="http://yoursite.com/blog/2013/12/03/ubuntu-uzerinde-qt-ve-mysql-baglantisi/"/>
     <updated>2013-12-03T23:40:04+02:00</updated>
-    <id>http://nazrdogan.github.io/blog/2013/12/03/ubuntu-uzerinde-qt-ve-mysql-baglantisi</id>
+    <id>http://yoursite.com/blog/2013/12/03/ubuntu-uzerinde-qt-ve-mysql-baglantisi</id>
     <content type="html"><![CDATA[<p><img src="/assets/Qt_Software_logo.png" alt="" /><img src="/assets/MySQL.svg" alt="" /></p>
 
 <p>QT ve Mysql bağlantısı için gerekli olanlar</p>
@@ -109,9 +109,9 @@ $ ./Downloads/&lt;installer_name&gt;</pre>
   
   <entry>
     <title type="html"><![CDATA[Tizen]]></title>
-    <link href="http://nazrdogan.github.io/blog/2013/09/01/tizen/"/>
+    <link href="http://yoursite.com/blog/2013/09/01/tizen/"/>
     <updated>2013-09-01T20:54:32+03:00</updated>
-    <id>http://nazrdogan.github.io/blog/2013/09/01/tizen</id>
+    <id>http://yoursite.com/blog/2013/09/01/tizen</id>
     <content type="html"><![CDATA[<p><a href="http://www.nazirdogan.com/wp-content/uploads/2013/09/tizen1.jpg"><img src="/assets/tizen1-300x168.jpg" alt="tizen" /></a></p>
 
 <p>Tizen(tayzın diye okunuyor) akıllı telefonlar ,tablet,netbook,araç içi bilgi- eglence cihazlar ve akıllı Tv &lsquo;ler gibi birden çok cihaz kategorisi için mobil operatörler, cihaz üreticileri ve silikon tedarikçileri lider tarafından desteklenen açık kaynak kodlu, standartlara dayalı yazılım platformudur.</p>
