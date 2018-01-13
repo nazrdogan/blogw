@@ -1,0 +1,242 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>NPM Ile Node.js Versiyonunu Yükseltme - My Octopress Blog</title>
+  <meta name="author" content="Your Name">
+
+  
+  <meta name="description" content="Node.js aktif olarak geliştirilen bir proje  olduğu için  versiyon sıklıkla değişmektedir. Bazen kullandığınız bir modül size versiyonunuz eski &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://yoursite.com/blog/2015/02/01/npm-ile-node-js-versiyonunu-yukseltme/">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/atom.xml" rel="alternate" title="My Octopress Blog" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="/javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="//fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">My Octopress Blog</a></h1>
+  
+    <h2>A blogging framework for hackers.</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="https://www.google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="sitesearch" value="yoursite.com">
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Blog</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">NPM Ile Node.js Versiyonunu Yükseltme</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+<time class='entry-date' datetime='2015-02-01T09:15:22+02:00'><span class='date'><span class='date-month'>Feb</span> <span class='date-day'>1</span><span class='date-suffix'>st</span>, <span class='date-year'>2015</span></span> <span class='time'>9:15 am</span></time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>Node.js aktif olarak geliştirilen bir proje  olduğu için  versiyon sıklıkla değişmektedir. Bazen kullandığınız bir modül size versiyonunuz eski oldugu için hata verecektir. Ya da son versiyonu kullanmak isteyebilirsiniz.</p>
+
+
+<p>Node.js  NPM kullanarak yükseltmek için Terminal'e</p>
+
+
+<pre class="lang:zsh decode:true">sudo npm cache clean -f
+sudo npm install -g n
+sudo n stable</pre>
+
+
+<p>Buradaki "stable "  yerine istediğiniz sürüm numarasınıda yazabilirsiniz.</p>
+
+
+<pre class="lang:default decode:true ">sudo n 0.8.21</pre>
+
+
+<p>Daha sonra  node versiyonunu kontrol edelim.</p>
+
+
+<pre class="lang:default decode:true ">node -v
+</pre>
+
+
+<p>Hepsi bu kadar. Aslında NPM'i kullanmak için Node.js yüklü olması gerekirken ,böyle çalışması bana biraz tuhaf geldi. :D</p>
+
+
+<p><a href="http://www.nazirdogan.com/wp-content/uploads/2015/02/snapshot11.png"><img class="alignnone size-full wp-image-576" src="/assets/snapshot11.png" alt="snapshot11" width="679" height="467" /></a></p>
+
+
+<p>&nbsp;</p>
+
+
+<p>&nbsp;</p>
+
+
+<p>&nbsp;</p>
+
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Your Name</span></span>
+
+      
+
+
+
+
+<time class='entry-date' datetime='2015-02-01T09:15:22+02:00'><span class='date'><span class='date-month'>Feb</span> <span class='date-day'>1</span><span class='date-suffix'>st</span>, <span class='date-year'>2015</span></span> <span class='time'>9:15 am</span></time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/javascript/'>javascript</a>, <a class='category' href='/blog/categories/node-dot-js/'>node.js</a>, <a class='category' href='/blog/categories/open-source/'>open source</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://yoursite.com/blog/2015/02/01/npm-ile-node-js-versiyonunu-yukseltme/" data-via="" data-counturl="http://yoursite.com/blog/2015/02/01/npm-ile-node-js-versiyonunu-yukseltme/" >Tweet</a>
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2015/01/17/2015-tizennin-olacak-mi/" title="Previous Post: 2015 Tizen'nin Yılı olacak mı ?">&laquo; 2015 Tizen'nin Yılı olacak mı ?</a>
+      
+      
+        <a class="basic-alignment right" href="/blog/2015/02/14/phonegapcordova-social-share-plugin-android-kurulumu/" title="Next Post: Phonegap/Cordova Social Share  Plugin Kurulumu">Phonegap/Cordova Social Share  Plugin Kurulumu &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2018/01/12/async-await-javascript/">Async/Await Ile Asenkron Javascript</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2017/11/18/yarn/">Yarn Paket Yöneticisi Nedir ?</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2016/09/30/swift-temelleri/">Swift 3 Dersleri-Temeller</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2016/09/30/programmatically-creating-ui-swift3/">Programmatically Creating UI Elements Using Swift 3</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2016/08/30/apache-cordova-ios-debug/">Apache Cordova Ve iOS'ta Uzaktan Hata Ayıklama</a>
+      </li>
+    
+  </ul>
+</section>
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2018 - Your Name -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>
