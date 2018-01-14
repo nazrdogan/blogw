@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Mongodb | My Octopress Blog]]></title>
-  <link href="http://yoursite.com/blog/categories/mongodb/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2018-01-14T02:55:56+03:00</updated>
-  <id>http://yoursite.com/</id>
+  <title><![CDATA[Category: Mongodb | Nazir Doğan Code Blog]]></title>
+  <link href="http://nazrdogan.github.io/blog/categories/mongodb/atom.xml" rel="self"/>
+  <link href="http://nazrdogan.github.io/"/>
+  <updated>2018-01-14T03:18:45+03:00</updated>
+  <id>http://nazrdogan.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Nazir Doğan]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Arduino 'Dan Socket.io Ile Gerçek Zamanlı Veri Alma]]></title>
-    <link href="http://yoursite.com/blog/2014/05/31/arduino-dan-socket-io-gercek-zamanli-veri-alma/"/>
+    <link href="http://nazrdogan.github.io/blog/2014/05/31/arduino-dan-socket-io-gercek-zamanli-veri-alma/"/>
     <updated>2014-05-31T20:50:23+03:00</updated>
-    <id>http://yoursite.com/blog/2014/05/31/arduino-dan-socket-io-gercek-zamanli-veri-alma</id>
+    <id>http://nazrdogan.github.io/blog/2014/05/31/arduino-dan-socket-io-gercek-zamanli-veri-alma</id>
     <content type="html"><![CDATA[<p><a href="http://www.nazirdogan.com/wp-content/uploads/2014/05/logo-884x360.png"><img class="alignnone size-full wp-image-337" src="/assets/logo-884x360.png" alt="logo-884x360" width="884" height="360" /></a></p>
 
 
@@ -106,9 +106,9 @@ https://gist.github.com/nazrdogan/4ace3504fdb0ea52f070</p>
   
   <entry>
     <title type="html"><![CDATA[Node.js Yazarken Hissedilen]]></title>
-    <link href="http://yoursite.com/blog/2014/05/25/node-js-yazarken-hissedilen/"/>
+    <link href="http://nazrdogan.github.io/blog/2014/05/25/node-js-yazarken-hissedilen/"/>
     <updated>2014-05-25T18:54:01+03:00</updated>
-    <id>http://yoursite.com/blog/2014/05/25/node-js-yazarken-hissedilen</id>
+    <id>http://nazrdogan.github.io/blog/2014/05/25/node-js-yazarken-hissedilen</id>
     <content type="html"><![CDATA[<p><img class="size-full" src="/assets/3ogi8b.jpg" alt="Node.js yazarken hissedilen" /></p>
 
 ]]></content>

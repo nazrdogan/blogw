@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: socket.io | My Octopress Blog]]></title>
-  <link href="http://yoursite.com/blog/categories/socket-dot-io/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2018-01-14T02:55:56+03:00</updated>
-  <id>http://yoursite.com/</id>
+  <title><![CDATA[Category: socket.io | Nazir Doğan Code Blog]]></title>
+  <link href="http://nazrdogan.github.io/blog/categories/socket-dot-io/atom.xml" rel="self"/>
+  <link href="http://nazrdogan.github.io/"/>
+  <updated>2018-01-14T03:18:45+03:00</updated>
+  <id>http://nazrdogan.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Nazir Doğan]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Arduino'yla Socket üzerinden Yılan Oyunu]]></title>
-    <link href="http://yoursite.com/blog/2014/06/01/arduinoyla-socket-uzerinden-yilan-oyunu/"/>
+    <link href="http://nazrdogan.github.io/blog/2014/06/01/arduinoyla-socket-uzerinden-yilan-oyunu/"/>
     <updated>2014-06-01T15:10:28+03:00</updated>
-    <id>http://yoursite.com/blog/2014/06/01/arduinoyla-socket-uzerinden-yilan-oyunu</id>
+    <id>http://nazrdogan.github.io/blog/2014/06/01/arduinoyla-socket-uzerinden-yilan-oyunu</id>
     <content type="html"><![CDATA[<p>Bu yazımda ise Bir Arduino ile Joysctick kontrolü ve Socket.io kullanarak  basit bir yılan oyunu nasıl kontrol edilir  ondan bahsedecegim.</p>
 
 
