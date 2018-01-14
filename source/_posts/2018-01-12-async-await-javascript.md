@@ -48,6 +48,7 @@ async function makeRequest() {
 makeRequest();
 
 ```
+
 Şimdi ise ``` async/await ``` fonksiyonuna nasıl dönüştüreceğimizi görelim. ilk olarak async anathar kelimesini fonksiyonuna ekliyoruz.
 Daha sonra ise ```.then()``` kısmında aşağıdaki gibi değişiklik yapıp ``` await ``` ekliyoruz.
 
