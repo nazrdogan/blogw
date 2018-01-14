@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: node.js | My Octopress Blog]]></title>
-  <link href="http://yoursite.com/blog/categories/node-dot-js/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2018-01-14T02:45:15+03:00</updated>
-  <id>http://yoursite.com/</id>
+  <title><![CDATA[Category: node.js | Nazir Doğan Code Blog]]></title>
+  <link href="http://nazrdogan.github.io/blog/categories/node-dot-js/atom.xml" rel="self"/>
+  <link href="http://nazrdogan.github.io/"/>
+  <updated>2018-01-14T03:25:01+03:00</updated>
+  <id>http://nazrdogan.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Nazir Doğan]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Async/Await Ile Asenkron Javascript]]></title>
-    <link href="http://yoursite.com/blog/2018/01/12/async-await-javascript/"/>
+    <link href="http://nazrdogan.github.io/blog/2018/01/12/async-await-javascript/"/>
     <updated>2018-01-12T00:00:00+03:00</updated>
-    <id>http://yoursite.com/blog/2018/01/12/async-await-javascript</id>
+    <id>http://nazrdogan.github.io/blog/2018/01/12/async-await-javascript</id>
     <content type="html"><![CDATA[<p><img src="https://www.bram.us/wordpress/wp-content/uploads/2017/05/js-callbacks-promises-asyncawait.gif" alt="async-await" /></p>
 
 <p>Yukardaki gif  Javascript geliştiricileri için oldukça büyük anlam ifade etse gerek. Javascript geliştiricleri yıllarca  asenkron kod yazmak için callback fonksiyonlarını ihtiyaç duyuyorlardı.</p>
@@ -68,9 +68,9 @@ makeRequest();
   
   <entry>
     <title type="html"><![CDATA[Yarn Paket Yöneticisi Nedir ?]]></title>
-    <link href="http://yoursite.com/blog/2017/11/18/yarn/"/>
+    <link href="http://nazrdogan.github.io/blog/2017/11/18/yarn/"/>
     <updated>2017-11-18T00:00:00+03:00</updated>
-    <id>http://yoursite.com/blog/2017/11/18/yarn</id>
+    <id>http://nazrdogan.github.io/blog/2017/11/18/yarn</id>
     <content type="html"><![CDATA[<p><img src="https://yarnpkg.com/assets/og_image.png" alt="yarn" /></p>
 
 <p>Facebook mühendisleri tarafından geliştirilmiş olan Yarn, hız ve güvenlik konusunda npm'den daha iyi olduğuna söz veriyor.</p>
@@ -107,9 +107,9 @@ makeRequest();
   
   <entry>
     <title type="html"><![CDATA[Electron Ile Web Teknolojilerini Kullanarak Masaüstü Uygulama Geliştirme]]></title>
-    <link href="http://yoursite.com/blog/2015/05/02/electron-ile-web-teknolojilerini-kullanarak-masaustu-uygulama-gelistirme/"/>
+    <link href="http://nazrdogan.github.io/blog/2015/05/02/electron-ile-web-teknolojilerini-kullanarak-masaustu-uygulama-gelistirme/"/>
     <updated>2015-05-02T10:49:29+03:00</updated>
-    <id>http://yoursite.com/blog/2015/05/02/electron-ile-web-teknolojilerini-kullanarak-masaustu-uygulama-gelistirme</id>
+    <id>http://nazrdogan.github.io/blog/2015/05/02/electron-ile-web-teknolojilerini-kullanarak-masaustu-uygulama-gelistirme</id>
     <content type="html"><![CDATA[<p>Electron , Javascript ile masaüstü uygulaması geliştirmenize  olanak  sağlayan bir runtime'dir.Electron  açık kaynak ve çapraz platfromdur .HTML ,CSS ve io.js'ten gücünü almaktadır.Electron GUI olarak web sayfasını kullanır.yani göreceginiz aslında minimal bir Chromuium tarayıcıdı.r İlk olarak Github'un Atom Editörü için geliştirilmiştir. Electron'u kullanan firmalar arasında  Microsoft ,Facebook ,Slack  ve Docker vardır. Hatta yeni çıkan Microsoft Visual Studio Code Electron tabanlıdır.</p>
 
 
@@ -250,9 +250,9 @@ app.on('ready', function() {
   
   <entry>
     <title type="html"><![CDATA[Node-WebKit Ile Masaüstü Uygulama Geliştirme]]></title>
-    <link href="http://yoursite.com/blog/2015/03/05/node-webkit-ile-masaustu-uygulama-gelistirme/"/>
+    <link href="http://nazrdogan.github.io/blog/2015/03/05/node-webkit-ile-masaustu-uygulama-gelistirme/"/>
     <updated>2015-03-05T11:14:40+02:00</updated>
-    <id>http://yoursite.com/blog/2015/03/05/node-webkit-ile-masaustu-uygulama-gelistirme</id>
+    <id>http://nazrdogan.github.io/blog/2015/03/05/node-webkit-ile-masaustu-uygulama-gelistirme</id>
     <content type="html"><![CDATA[<p>Node-Webkit nedir ?</p>
 
 
@@ -334,9 +334,9 @@ app.on('ready', function() {
   
   <entry>
     <title type="html"><![CDATA[Javascript Ile Arduino]]></title>
-    <link href="http://yoursite.com/blog/2015/02/28/javascript-ile-arduino/"/>
+    <link href="http://nazrdogan.github.io/blog/2015/02/28/javascript-ile-arduino/"/>
     <updated>2015-02-28T12:41:23+02:00</updated>
-    <id>http://yoursite.com/blog/2015/02/28/javascript-ile-arduino</id>
+    <id>http://nazrdogan.github.io/blog/2015/02/28/javascript-ile-arduino</id>
     <content type="html"><![CDATA[<p>Bu yazımda Javascript ile Arduino kontrolünden bahsedeceğim.Node.js'ı muhtemelen duymuşsunuzdur. Ama eğer duymadıysanız  kısaca server tarafında Javascript çalıştırabileceğiniz bir platform olarak tanımlayabiliriz.</p>
 
 
